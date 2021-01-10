@@ -1706,4 +1706,116 @@
             "Subject Sentiment": 0.0,
             "Punctuation %": 0.1411764705882353
         }
-    ],}
+    ]
+    "thread766": [
+        {
+            "conflict": "no",
+            "professional": "yes",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Tue, 20 Mar 2001 08:57:00 -0800 (PST)",
+            "Sender": "jeff.dasovich@enron.com\tsmara@enron.com, wgang@enron.com",
+            "Recipient": "sgovenar@govadv",
+            "Subject": "Air Force Talking Paper of Direct Access]",
+            "Text": "I think we ought to \"share it\" with folks.  Bill Gang, do you have any objections?Jeff\tScott Govenar <sgovenar@govadv.com>\t03/20/2001 04:52 PM\t\t Janel Guerrero <Janel.Guerrero@enron.com>, Susan J Mara <smara@enron.com>We can use the Air Force DA document under the Freedom of InformationAct.  We could also distribute it to the Administration and Legislatureanonymously.   Please advise.----- Message from Wells Bill LtCol HQ AFCESA/ULT <Bill.Wells@tyndall.af.mil> on Mon, 19 Mar 2001 23:18:12 -0600 -----To:\tScott Govenar <sgovenar@govadv.com>If you had filed a Freedom of Information Act request, I would have sent itto you, so I treated your request as the functional equivalent of a FOIArequest.  That basically means that it is in the pubic domain.  While youcan not say you are distributing it on the behalf of the Air Force, you cancertainly share it with anyone you wish.Bill C. Wells, Lt Col, USAFChief, Utility Litigation TeamDSN 523-6347; 850-283-6347Note new e-mail address:    bill.wells@tyndall.af.mil",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.09210526315789473,
+            "Friendly Words %": 0.09210526315789473,
+            "Sentiment": 0.13636363636363635,
+            "Subject Sentiment": 0.1,
+            "Punctuation %": 0.06995073891625615
+        }
+    ],
+    "thread767": [
+        {
+            "conflict": "no",
+            "professional": "yes",
+            "tone": "stern"
+        },
+        {
+            "Timestamp": "Fri, 16 Mar 2001 14:53:16 -0600",
+            "Sender": "Wells Bill LtCol HQ AFCESA/ULT <Bill.Wells@tyndall.af.mil>boundary=\"----_=_NextPart_000_01C0AE5B.1F96B000\"",
+            "Recipient": "\"Govenar Scott (E-mail)\" <sgovenar@govadv",
+            "Subject": "Air Force Talking Paper of Direct Access",
+            "Text": "FYI.  We've been given permission to distribute, but no \"on behalf of\" the Air Force.Best,Jeff----- Forwarded by Jeff Dasovich/NA/Enron on 03/21/2001 05:20 PM -----\tScott Govenar <sgovenar@govadv.com>\t03/21/2001 02:11 PM\t\t As requested.with SMTP; 16 Mar 2001 21:15:38 -0000tynsun06.tyndall.af.mil with ESMTP id OAA25406; Fri, 16 Mar 2001 14:52:48 -0600 (CST)[131.55.249.98]) by tynsun06.tyndall.af.mil with ESMTP id OAA25402; Fri, 16 Mar 2001 14:52:45 -0600 (CST)id <HB840M6F>; Fri, 16 Mar 2001 14:53:18 -0600boundary=\"----_=_NextPart_000_01C0AE5B.1F96B000\"As requested <<Direct Acccess TP(16 Mar 01).doc>>Bill C. Wells, Lt Col, USAFChief, Utility Litigation TeamDSN 523-6347; 850-283-6347Note new e-mail address:    bill.wells@tyndall.af.mil - Direct Acccess TP(16 Mar 01).doc",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.07216494845360824,
+            "Friendly Words %": 0.010309278350515464,
+            "Sentiment": 0.11818181818181818,
+            "Subject Sentiment": 0.1,
+            "Punctuation %": 0.13513513513513514
+        }
+    ],
+    "thread768": [
+        {
+            "conflict": "no",
+            "professional": "yes",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Tue, 20 Mar 2001 09:00:00 -0800 (PST)",
+            "Sender": "jeff.dasovich@enron.com",
+            "Recipient": "susan",
+            "Subject": "can you send info",
+            "Text": " - Hertzberg final.docHere it is darlin'.  It's an attachment to the main text of the document. If you have any questions, or need anything else.  Don't hesitate.Best,Jeff----- Forwarded by Jeff Dasovich/NA/Enron on 03/20/2001 04:59 PM -----\tSusan M Landwehr\t03/20/2001 04:06 PM\t\t JEff--I was just on the phone with Kaufman and he asked if you could send me a great document that you put together on a demand buy down program (and he said it was the one you put together for Hertberg).  Could you send either via e mail or fax?  612-339-4392",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.09375,
+            "Friendly Words %": 0.11458333333333333,
+            "Sentiment": 0.24444444444444446,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.06839186691312385
+        },
+        {
+            "Timestamp": "Tue, 20 Mar 2001 09:07:00 -0800 (PST)",
+            "Sender": "jeff.dasovich@enron.com",
+            "Recipient": "susan",
+            "Subject": "can you send info",
+            "Text": "talks like marge, looks like elle mcpherson.",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.0,
+            "Friendly Words %": 0.14285714285714285,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.045454545454545456
+        },
+        {
+            "Timestamp": "Thu, 26 Apr 2001 08:35:00 -0700 (PDT)",
+            "Sender": "jeff.dasovich@enron.com",
+            "Recipient": "susan",
+            "Subject": "can you send info",
+            "Text": "Sounds great.  Could you touch base with Paul and coordinate?  Muchas gracias.Best,Jeff",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.14285714285714285,
+            "Friendly Words %": 0.14285714285714285,
+            "Sentiment": 0.0,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.04597701149425287
+        },
+        {
+            "Timestamp": "Thu, 26 Apr 2001 09:00:00 -0700 (PDT)",
+            "Sender": "jeff.dasovich@enron.com",
+            "Recipient": "susan",
+            "Subject": "can you send info",
+            "Text": "CEO of Edison.\tSusan M Landwehr\t04/26/2001 03:37 PM\t\tJust put a call in to him.  Who is John Bryson?  \tJeff Dasovich\t04/26/2001 03:35 PM\t\tSounds great.  Could you touch base with Paul and coordinate?  Muchas gracias.Best,Jeff",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.1388888888888889,
+            "Friendly Words %": 0.08333333333333333,
+            "Sentiment": 0.0,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.057777777777777775
+        }
+    ]
+
+}
