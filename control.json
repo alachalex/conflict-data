@@ -1955,6 +1955,555 @@
             "Subject Sentiment": 0.0,
             "Punctuation %": 0.0962150689777149
         }
+    ],
+    "thread1360": [
+        {
+            "conflict": "no",
+            "professional": "no",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Wed, 31 Oct 2001 16:04:46 -0800 (PST)",
+            "Sender": "keith.holst@enron.com",
+            "Recipient": "george",
+            "Subject": "Its all good news",
+            "Text": "Nobody is better than you George!!!!!ThanksKeith",
+            "Conflict": false,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.0,
+            "Friendly Words %": 0.16666666666666666,
+            "Sentiment": 1.0,
+            "Subject Sentiment": 0.7,
+            "Punctuation %": 0.10416666666666667
+        },
+        {
+            "Sender": "George Arvanitis [mailto:George.Arvanitis@mirant.com]",
+            "Recipient": "Keith Holst (E-mail)",
+            "Subject": "Its all good news",
+            "Conflict": false,
+            "Professional": false,
+            "Tone": false,
+            "Subject Sentiment": 0.7
+        }
+    ],
+    "thread1361": [
+        {
+            "conflict": "no",
+            "professional": "yes",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Fri, 2 Nov 2001 09:34:28 -0800 (PST)",
+            "Sender": "keith.holst@enron.com",
+            "Recipient": "brent",
+            "Subject": "Rotation on west gas desk",
+            "Text": "Brent:Phillip Allen passed your resume to me.  I would like to discuss the possibilty of you spending your first rotation in Houston with Mike Grigsby and myself on the west natural gas trading desk.  I understand that you are a trading candidate and a rotation on the west desk would fulfill one of the program requirements.  I will be in London November 9th, please let me know if you can spare a few minutes.ThanksKeith Holst713-853-7069   ",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.13580246913580246,
+            "Friendly Words %": 0.12345679012345678,
+            "Sentiment": -0.012500000000000011,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.01805869074492099
+        },
+        {
+            "Timestamp": "Tue, 20 Nov 2001 07:19:16 -0800 (PST)",
+            "Sender": "\tHolst, Keith  Sent:\t02 November 2001 17:34",
+            "Recipient": "brent",
+            "Subject": "Rotation on west gas desk",
+            "Text": "Brent:We are really looking forward to having you on the team.  The new trading floor is awesome.  Feel free to take a couple extra days if you need them.Keith -----Original Message-----Sent:\tTuesday, November 20, 2001 6:07 AMTo:\tHolst, KeithKeith,I hope that you had a good time in London... Scotland was fantastic. I'm really glad that I got to go before I leave. Speaking of which, I received word from Karen Buckley that I'll be joining West Gas. I must admit, I'm pretty excited about it. I think that my start date will be December 5, although I haven't received any confirmation of that...See you soon,-Brent -----Original Message-----Sent:\t02 November 2001 18:07To:\tDornier, BrentGoing to Scotland for the weekend....Why the hell are you moving back to Houston?  In 2 months you'll be going to Galveston for the weekend.  Anyway, I'm arriving early Friday morning and plan on reaching Enron around 1:00 PM.  If it works for you, lets plan on meeting around 1:30 PM.Keith  -----Original Message-----Sent:\tFriday, November 02, 2001 11:42 AMTo:\tHolst, KeithLet's do it. The only time requirement I have on Friday is in the afternoon. I'm going to have to blow out of here around 4:00pm to catch a flight to Scotland for the weekend. The rest of day is open.Looking forward to seeing you.-Brent -----Original Message-----Sent:\t02 November 2001 17:34To:\tDornier, BrentSubject:\tRotation on west gas deskBrent:Phillip Allen passed your resume to me.  I would like to discuss the possibilty of you spending your first rotation in Houston with Mike Grigsby and myself on the west natural gas trading desk.  I understand that you are a trading candidate and a rotation on the west desk would fulfill one of the program requirements.  I will be in London November 9th, please let me know if you can spare a few minutes.ThanksKeith Holst713-853-7069   ",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.0749185667752443,
+            "Friendly Words %": 0.1563517915309446,
+            "Sentiment": 0.2698347107438016,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.06277056277056277
+        }
+    ],
+    "thread1362": [
+        {
+            "conflict": "no",
+            "professional": "yes",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Thu, 8 Nov 2001 05:27:55 -0800 (PST)",
+            "Sender": "keith.holst@enron.com",
+            "Recipient": "zachary",
+            "Subject": "West Gas Trading Rotation",
+            "Text": "Zac We are looking forward to having you join our team.  I will be out of the office Friday, returning Monday. Keith",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.043478260869565216,
+            "Friendly Words %": 0.2608695652173913,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.02586206896551724
+        }
+    ],
+    "thread1363": [
+        {
+            "conflict": "yes",
+            "professional": "yes",
+            "tone": "stern"
+        },
+        {
+            "Timestamp": "Wed, 14 Nov 2001 06:10:58 -0800 (PST)",
+            "Sender": "keith.holst@enron.com",
+            "Recipient": "k",
+            "Subject": "Suggested course in uncertain times",
+            "Text": "John,Let me begin by recognizing that you are now entrusted to resolve issues that were not of your own creation.  I also appreciate the tremendous amount of stress that you have been under especially considering the birth of your second child.  I do not envy you now, yet I am sincerely grateful that it is you and Greg leading us through these times.The message that you have sent throughout my six years with Enron has been \"trust the system until it fails you\".  We would all be disappointed if our troubled times were a result of a few (rather large) ill-conceived investments, but the violation of trust comes from the deliberate misrepresentation of facts.  Namely the restatement of earnings and balance sheet items back to 1997.  We have all based our decisions to continue employment with Enron upon publicly available information.  Has fraudulence been proven in a court of law?  No.  However, the court of public opinion has already had it its trial, the perpetrators have been convicted and the victims now await retribution.  In this matter, the corporation is responsible to the court of public opinions jurisdiction.  I write you now to offer my version of justice.From 1997 to date I have received restricted stock and options with a notional value of approximately $700,000 (by memory).  At the end of each compensation period, I based my decision to continue my employment with Enron on all publicly available information.  This corporation has deliberately and knowingly misrepresented these facts.  Today, I call on Enron to repurchase my entire equity portfolio and replace it with a one time lump sum payment equal to the exact notional value.Enron may not be able to offer this solution to all of its employees.  You may need to make decisions on who to keep.  Perhaps Enron should offer to release those less desired individuals from any contractual obligations.John, I recognize that these issues cannot be resolved over night.  I will be as patient as I can be.Sincerely,Keith",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.09221902017291066,
+            "Friendly Words %": 0.12103746397694524,
+            "Sentiment": 0.10255731922398588,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.0199700449326011
+        },
+        {
+            "Timestamp": "Wed, 14 Nov 2001 06:21:30 -0800 (PST)",
+            "Sender": "\tHolst, Keith  Sent:\tWednesday, November 14, 2001 8:11 AM",
+            "Recipient": "john",
+            "Subject": "Suggested course in uncertain times",
+            "Text": " -----Original Message-----Sent:\tWednesday, November 14, 2001 8:11 AMTo:\tAllen, Phillip K.Subject:\tSuggested course in uncertain timesJohn,Let me begin by recognizing that you are now entrusted to resolve issues that were not of your own creation.  I also appreciate the tremendous amount of stress that you have been under especially considering the birth of your second child.  I do not envy you now, yet I am sincerely grateful that it is you and Greg leading us through these times.The message that you have sent throughout my six years with Enron has been \"trust the system until it fails you\".  We would all be disappointed if our troubled times were a result of a few (rather large) ill-conceived investments, but the violation of trust comes from the deliberate misrepresentation of facts.  Namely the restatement of earnings and balance sheet items back to 1997.  We have all based our decisions to continue employment with Enron upon publicly available information.  Has fraudulence been proven in a court of law?  No.  However, the court of public opinion has already had it its trial, the perpetrators have been convicted and the victims now await retribution.  In this matter, the corporation is responsible to the court of public opinions jurisdiction.  I write you now to offer my version of justice.From 1997 to date I have received restricted stock and options with a notional value of approximately $700,000 (by memory).  At the end of each compensation period, I based my decision to continue my employment with Enron on all publicly available information.  This corporation has deliberately and knowingly misrepresented these facts.  Today, I call on Enron to repurchase my entire equity portfolio and replace it with a one time lump sum payment equal to the exact notional value.Enron may not be able to offer this solution to all of its employees.  You may need to make decisions on who to keep.  Perhaps Enron should offer to release those less desired individuals from any contractual obligations.John, I recognize that these issues cannot be resolved over night.  I will be as patient as I can be.Sincerely,Keith",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.09166666666666666,
+            "Friendly Words %": 0.11666666666666667,
+            "Sentiment": 0.0900573192239859,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.0271408516612073
+        }
+    ],
+    "thread1364": [
+        {
+            "conflict": "yes",
+            "professional": "yes",
+            "tone": "stern"
+        },
+        {
+            "Timestamp": "Wed, 17 Oct 2001 05:08:27 -0700 (PDT)",
+            "Sender": "\tBuckley, Karen  Sent:\tTuesday, October 16, 2001 5:29 PM",
+            "Recipient": "karen",
+            "Subject": "Scott Freeman",
+            "Text": "Neither Mike nor I have interviewed Scott before.  Our connection to Scott came through a very strong recommendation from our West-Power trading desk in Portland.  We are interested in Scott because his west power experience is directly related to the west gas market that Mike and I trade.I don't mean to be a pain.  If this is unconventional, Mike and I will make seperate arrangements for Scott to meet with us.ThanksKeithinal Message-----Sent:\tTuesday, October 16, 2001 5:34 PMTo:\tHolst, KeithGee don't know about that keith... have you interviewed him before?Karen. -----Original Message-----Sent:\tTuesday, October 16, 2001 5:33 PMTo:\tBuckley, KarenKaren,Mike Grigsby and I would really appreciate being two of the interviewers of Scott on the 29th if that's not to difficult to arrange.Thanks -----Original Message-----Sent:\tTuesday, October 16, 2001 5:29 PMTo:\tHolst, KeithSubject:\tScott FreemanHi Keith,Just spoke with Scott with regard to the trading track.  He has been scheduled to interview.Kind regards,Karen.",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.053691275167785234,
+            "Friendly Words %": 0.12751677852348994,
+            "Sentiment": 0.21833333333333335,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.06457925636007827
+        },
+        {
+            "Timestamp": "Tue, 16 Oct 2001 15:32:38 -0700 (PDT)",
+            "Sender": "\tBuckley, Karen  Sent:\tTuesday, October 16, 2001 5:29 PM",
+            "Recipient": "karen",
+            "Subject": "Scott Freeman",
+            "Text": "Karen,Mike Grigsby and I would really appreciate being two of the interviewers of Scott on the 29th if that's not to difficult to arrange.Thanks -----Original Message-----Sent:\tTuesday, October 16, 2001 5:29 PMTo:\tHolst, KeithSubject:\tScott FreemanHi Keith,Just spoke with Scott with regard to the trading track.  He has been scheduled to interview.Kind regards,Karen.",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.0196078431372549,
+            "Friendly Words %": 0.09803921568627451,
+            "Sentiment": 0.025000000000000005,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.06793478260869565
+        },
+        {
+            "Timestamp": "Tue, 16 Oct 2001 07:33:58 -0700 (PDT)",
+            "Sender": "\tRichter, Jeff  Sent:\tTuesday, October 16, 2001 8:02 AM",
+            "Recipient": "jeff",
+            "Subject": "Scott Freeman",
+            "Text": "Jeff,Lets make dinner plans to discuss this.....Just kidding.  While Scott was here, we arranged for him to be included in the Oct 29th Trading Track interviews.  This seems to be the best thing for him given that he really wants to become a trader.  Once in the program, he'll have 4 rotations (6 months each), some of these would likely be on the west desk.Mike and I have talked and both agree that it makes good sense for Scott to join west gas given his experience in Portland.  However, the only hitch is that Mike cannot unilaterally decide to bring Scott to the desk.  He will need to negotiate this with the other desk heads and the program director.  This should not be an issue.Keith  -----Original Message-----Sent:\tTuesday, October 16, 2001 8:02 AMTo:\tHolst, KeithSubject:\tScott FreemanKeith,Just wanted to follow up with your group regarding the possibility of Scott Freeman working in your group starting in January.  Either give me a call or send me an email.Thanks for talking with him last week.RichterJeff Richter                            503.464.3917 (w-pdx)Enron North America                            503.701.6488 (c)West Power Services                          503.464.3740 (fax)121 SW Salmon Street 3WTC0306       jeff.richter@enron.comPortland, Oregon  97204",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.36879432624113473,
+            "Friendly Words %": 0.0673758865248227,
+            "Sentiment": 0.1525,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.04584304584304584
+        }
+    ],
+    "thread1365": [
+        {
+            "conflict": "yes",
+            "professional": "no",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Mon, 29 Oct 2001 07:27:55 -0800 (PST)",
+            "Sender": "keith.holst@enron.com",
+            "Recipient": "tracy@texexenergy",
+            "Subject": "tonight...",
+            "Text": "FU, u stupid b-tch.",
+            "Conflict": true,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.0,
+            "Friendly Words %": 0.0,
+            "Sentiment": -0.7999999999999999,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.15789473684210525
+        },
+        {
+            "Sender": "Tracy Brassard [mailto:tracy@texexenergy.com]",
+            "Recipient": "KHolst@Enron",
+            "Subject": "tonight...",
+            "Conflict": true,
+            "Professional": false,
+            "Tone": false,
+            "Subject Sentiment": 0.0
+        }
+    ],
+    "thread1366": [
+        {
+            "conflict": "yes",
+            "professional": "no",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Thu, 25 Oct 2001 10:57:06 -0700 (PDT)",
+            "Sender": "keith.holst@enron.com",
+            "Recipient": "tlbrassard@aol",
+            "Subject": "???",
+            "Text": "What the hell are you talking about?",
+            "Conflict": true,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.0,
+            "Friendly Words %": 0.2857142857142857,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.027777777777777776
+        },
+        {
+            "Sender": "Tlbrassard@aol.com [mailto:Tlbrassard@aol.com]",
+            "Recipient": "KHolst@enron",
+            "Subject": "???",
+            "Conflict": true,
+            "Professional": false,
+            "Tone": false,
+            "Subject Sentiment": 0.0
+        },
+        {
+            "Timestamp": "Thu, 8 Nov 2001 10:05:17 -0800 (PST)",
+            "Sender": "brmartin@utmb.edu",
+            "Recipient": "jreitme@enron",
+            "Subject": "???",
+            "Text": "Hey Jay,You've been in my thoughts and prayers lately with all the Enron talk.I hope everything works out well for you. thanks...bert r martinpublications production manager409.747.7809 office409.942.6208 alpha pager <<...OLE_Obj...>> ",
+            "Conflict": true,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.03225806451612903,
+            "Friendly Words %": 0.12903225806451613,
+            "Sentiment": -0.3,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.09361702127659574
+        }
+    ],
+    "thread1374": [
+        {
+            "conflict": "yes",
+            "professional": "yes",
+            "tone": "stern"
+        },
+        {
+            "Timestamp": "Thu, 25 Oct 2001 21:54:55 -0700 (PDT)",
+            "Sender": "no.address@enron.com",
+            "Subject": "Important Announcement Regarding Document Preservation",
+            "Text": "As you know, Enron, its directors, and certain current and former officers are defendants in litigation in Federal and State court involving the LJM partnerships.Enron has employed counsel and they will represent Enron and its interests in the litigation.Under the Private Securities Litigation Reform Act, we are required to preserve documents that might be used in the litigation. Accordingly, our normal document destruction policies are suspended immediately and shall remain suspended until further notice.Please retain all documents (which include handwritten notes, recordings, e-mails, and any other method of information recording) that in any way relate to the Company's related party transactions with LJM 1 and LJM 2, including, but not limited to, the formation of these partnerships, any transactions or discussions with the partnerships or its agents, and Enron's accounting for these transactions.You should know that this document preservation requirement is a requirement of Federal law and you could be individually liable for civil and criminal penalties if you fail to follow these instructions.You should know that Enron will defend these lawsuits vigorously.  In the meantime, you should not discuss matters related to the lawsuits with anyone other than the appropriate persons at Enron and its counsel.  If you have any questions, please contact Jim Derrick at 713-853-5550.",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.05238095238095238,
+            "Friendly Words %": 0.08095238095238096,
+            "Sentiment": 0.020386904761904762,
+            "Subject Sentiment": 0.4,
+            "Punctuation %": 0.02215868477483917
+        },
+        {
+            "Timestamp": "Thu, 25 Oct 2001 21:54:55 -0700 (PDT)",
+            "Sender": "no.address@enron.com",
+            "Subject": "Important Announcement Regarding Document Preservation",
+            "Text": "As you know, Enron, its directors, and certain current and former officers are defendants in litigation in Federal and State court involving the LJM partnerships.Enron has employed counsel and they will represent Enron and its interests in the litigation.Under the Private Securities Litigation Reform Act, we are required to preserve documents that might be used in the litigation. Accordingly, our normal document destruction policies are suspended immediately and shall remain suspended until further notice.Please retain all documents (which include handwritten notes, recordings, e-mails, and any other method of information recording) that in any way relate to the Company's related party transactions with LJM 1 and LJM 2, including, but not limited to, the formation of these partnerships, any transactions or discussions with the partnerships or its agents, and Enron's accounting for these transactions.You should know that this document preservation requirement is a requirement of Federal law and you could be individually liable for civil and criminal penalties if you fail to follow these instructions.You should know that Enron will defend these lawsuits vigorously.  In the meantime, you should not discuss matters related to the lawsuits with anyone other than the appropriate persons at Enron and its counsel.  If you have any questions, please contact Jim Derrick at 713-853-5550.",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.05238095238095238,
+            "Friendly Words %": 0.08095238095238096,
+            "Sentiment": 0.020386904761904762,
+            "Subject Sentiment": 0.4,
+            "Punctuation %": 0.02215868477483917
+        }
+    ],
+    "thread2135": [
+        {
+            "conflict": "yes",
+            "professional": "yes",
+            "tone": "stern"
+        },
+        {
+            "Timestamp": "Tue, 22 Aug 2000 10:06:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com\tlarry.soderquist@enron.com, herman.manis@enron.com, ",
+            "Recipient": "john",
+            "Subject": "Edgecombe Energy and Capacity Contract",
+            "Text": "In an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy and capacity contract (formerly the PPA).  It is scheduled for Thursday, August 24th, at 900am.  We are still in the process of locating a conference room, so the location is TBD.Thanks,KayHere are the most recent comments from VEPCO:Some of you may have received this already.  I have not compared it against what we last sent them.",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.1038961038961039,
+            "Friendly Words %": 0.14285714285714285,
+            "Sentiment": 0.25,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.03009259259259259
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 00:27:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com",
+            "Recipient": "John Moore/Corp/Enron@Enron, Christi L Nicolay/HOU/ECT@ECT, Mitch Robinson/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Herman ",
+            "Subject": "Edgecombe Energy and Capacity Contract",
+            "Text": "It would be very helpful if you could participate, or have your designee participate.  Sorry for  the short notice (what else is new). Perhaps we can also arrange a discussion about the interconnection agreement.I'm out this am, but will pick up voice mail.Thanks,KayPS  I can't wait to hear about St. Lucia.---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 07:18 AM ---------------------------   \tEnron North America Corp.\t\tRobinson/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Herman Manis/Corp/Enron@ENRON, Matthew F Gockerman/HOU/ECT@ECTIn an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy and capacity contract (formerly the PPA).  It is scheduled for Thursday, August 24th, at 900am.  We are still in the process of locating a conference room, so the location is TBD.Thanks,KayHere are the most recent comments from VEPCO:Some of you may have received this already.  I have not compared it against what we last sent them.",
+            "Conflict": true,
+            "Professional": true,
+            "Tone": true,
+            "Conflict Words %": 0.11842105263157894,
+            "Friendly Words %": 0.1118421052631579,
+            "Sentiment": 0.1095959595959596,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.0963855421686747
+        }
+    ],
+    "thread2136": [
+        {
+            "conflict": "no",
+            "professional": "no",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Tue, 22 Aug 2000 10:19:00 -0700 (PDT)",
+            "Sender": "Suzanne Adams@ECT on 08/22/2000 05:12 PM",
+            "Recipient": "Kay Mann/Corp/Enron@ENRON",
+            "Subject": "Edgecombe Energy and Capacity Contract  ",
+            "Text": "At least drinks and coffee. Thanks for thinking of it.I sent an email to everyone (actually just replied to your email but to all) that the meeting will be held in 27C1.Since it's a 2 hour meeting, would you like coffee and soft drinks and breakfast food?  Please advise.\tKay Mann@ENRON\t08/22/2000 05:06 PM\t\t Robinson/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Herman Manis/Corp/Enron@ENRON, Matthew F Gockerman/HOU/ECT@ECTAdams/HOU/ECT)In an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy and capacity contract (formerly the PPA).  It is scheduled for Thursday, August 24th, at 900am.  We are still in the process of locating a conference room, so the location is TBD.Thanks,KayHere are the most recent comments from VEPCO:Some of you may have received this already.  I have not compared it against what we last sent them.",
+            "Conflict": false,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.08029197080291971,
+            "Friendly Words %": 0.13138686131386862,
+            "Sentiment": 0.01666666666666668,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.05034324942791762
+        },
+        {
+            "Timestamp": "Tue, 22 Aug 2000 10:28:00 -0700 (PDT)",
+            "Sender": "Suzanne Adams@ECT on 08/22/2000 05:12 PM",
+            "Recipient": "Kay Mann/Corp/Enron@ENRON",
+            "Subject": "Edgecombe Energy and Capacity Contract  ",
+            "Text": "Hi, my name is Kay, and I'm a Diet Coke addict.Don't you drink Diet Coke?\tKay Mann@ENRON\t08/22/2000 05:19 PM\t\tAt least drinks and coffee. Thanks for thinking of it.I sent an email to everyone (actually just replied to your email but to all) that the meeting will be held in 27C1.Since it's a 2 hour meeting, would you like coffee and soft drinks and breakfast food?  Please advise.\tKay Mann@ENRON\t08/22/2000 05:06 PM\t\t Robinson/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Herman Manis/Corp/Enron@ENRON, Matthew F Gockerman/HOU/ECT@ECTAdams/HOU/ECT)In an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy and capacity contract (formerly the PPA).  It is scheduled for Thursday, August 24th, at 900am.  We are still in the process of locating a conference room, so the location is TBD.Thanks,KayHere are the most recent comments from VEPCO:Some of you may have received this already.  I have not compared it against what we last sent them.",
+            "Conflict": false,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.07142857142857142,
+            "Friendly Words %": 0.12987012987012986,
+            "Sentiment": 0.01666666666666668,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.054878048780487805
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:12:00 -0700 (PDT)",
+            "Sender": "Suzanne Adams on 08/23/2000 11:44 AMManis/Corp/Enron@ENRON, John Moore/Corp/Enron@Enron, Larry ",
+            "Recipient": "Kay Mann/Corp/Enron@ENRONSoderquist/HOU/ECT@ECT, Matthew F Gockerman/HOU/ECT@ECT, Mitch ",
+            "Subject": "Edgecombe Energy and Capacity Contract  ",
+            "Text": "What did Heather tell you?Would this be ok re Christi?----- Forwarded by Suzanne Adams/HOU/ECT on 08/23/2000 01:08 PM -----\tChristi L Nicolay\t08/23/2000 12:12 PM\t\tI am out that day, but I can give my comments to Mitch or listen via conf call.Manis/Corp/Enron@ENRON, John Moore/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Matthew F Gockerman/HOU/ECT@ECT, Mitch Robinson/Corp/Enron@Enron, Ozzie Pagan/HOU/ECT@ECT John Moore is unable to attend the meeting scheduled for Thursday at 9:00 a.m., so we were wondering if you guys would be available at 9:00 a.m. on Friday.  Please let me know.  Thanks, Suzanne, x37340 or via email\tKay Mann@ENRON\t08/22/2000 05:06 PM\t\t Robinson/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Herman Manis/Corp/Enron@ENRON, Matthew F Gockerman/HOU/ECT@ECTAdams/HOU/ECT)In an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy and capacity contract (formerly the PPA).  It is scheduled for Thursday, August 24th, at 900am.  We are still in the process of locating a conference room, so the location is TBD.Thanks,KayHere are the most recent comments from VEPCO:Some of you may have received this already.  I have not compared it against what we last sent them.",
+            "Conflict": false,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.0782122905027933,
+            "Friendly Words %": 0.1005586592178771,
+            "Sentiment": 0.16111111111111112,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.07386363636363637
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:25:00 -0700 (PDT)",
+            "Sender": "Suzanne Adams@ECT on 08/23/2000 01:17 PMManis/Corp/Enron@ENRON, John Moore/Corp/Enron@Enron, Larry ",
+            "Recipient": "Kay Mann/Corp/Enron@ENRONSoderquist/HOU/ECT@ECT, Matthew F Gockerman/HOU/ECT@ECT, Mitch ",
+            "Subject": "Edgecombe Energy and Capacity Contract  ",
+            "Text": "Sounds good so far.---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:24 PM ---------------------------   \tEnron North America Corp.\t\tKay -That should work, since our 3:00 is being obviated by our 12:30.Mitch---------------------- Forwarded by Mitch Robinson/Corp/Enron on 08/23/2000 01:22 PM ---------------------------Manis/Corp/Enron@ENRON, John Moore/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Matthew F Gockerman/HOU/ECT@ECT, Mitch Robinson/Corp/Enron@Enron, Ozzie Pagan/HOU/ECT@ECT, Sheila Tweed/HOU/ECT@ECT It doesn't look like Friday morning will work.  How do you guys look for Thursday afternoon at 3:00 p.m.  We can have the meeting in EB38C1.  Please advise via telephone (x37340) or email asap!  Thanks!\tKay Mann@ENRON\t08/22/2000 05:06 PM\t\t Robinson/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Herman Manis/Corp/Enron@ENRON, Matthew F Gockerman/HOU/ECT@ECTAdams/HOU/ECT)In an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy and capacity contract (formerly the PPA).  It is scheduled for Thursday, August 24th, at 900am.  We are still in the process of locating a conference room, so the location is TBD.Thanks,KayHere are the most recent comments from VEPCO:Some of you may have received this already.  I have not compared it against what we last sent them.",
+            "Conflict": false,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.10614525139664804,
+            "Friendly Words %": 0.10614525139664804,
+            "Sentiment": 0.3,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.13893016344725112
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:44:00 -0700 (PDT)",
+            "Sender": "Suzanne Adams@ECT on 08/23/2000 01:17 PMManis/Corp/Enron@ENRON, John Moore/Corp/Enron@Enron, Larry ",
+            "Recipient": "Kay Mann/Corp/Enron@ENRONSoderquist/HOU/ECT@ECT, Matthew F Gockerman/HOU/ECT@ECT, Mitch ",
+            "Subject": "Edgecombe Energy and Capacity Contract  ",
+            "Text": "jeffrey keenanWho is Jeffrey?----- Forwarded by Suzanne Adams/HOU/ECT on 08/23/2000 01:40 PM -----\tJohn Moore@ENRON\t08/23/2000 01:37 PM\t\tI'll be out all day Thursday and part of today, but Jeffrey may be here.  Suggest you call him to confirm.JMooreManis/Corp/Enron@ENRON, John Moore/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Matthew F Gockerman/HOU/ECT@ECT, Mitch Robinson/Corp/Enron@Enron, Ozzie Pagan/HOU/ECT@ECT, Sheila Tweed/HOU/ECT@ECT It doesn't look like Friday morning will work.  How do you guys look for Thursday afternoon at 3:00 p.m.  We can have the meeting in EB38C1.  Please advise via telephone (x37340) or email asap!  Thanks!\tKay Mann@ENRON\t08/22/2000 05:06 PM\t\t Robinson/Corp/Enron@Enron, Larry Soderquist/HOU/ECT@ECT, Herman Manis/Corp/Enron@ENRON, Matthew F Gockerman/HOU/ECT@ECTAdams/HOU/ECT)In an effort to pull the pieces together, a meeting has been scheduled to discuss the draft energy and capacity contract (formerly the PPA).  It is scheduled for Thursday, August 24th, at 900am.  We are still in the process of locating a conference room, so the location is TBD.Thanks,KayHere are the most recent comments from VEPCO:Some of you may have received this already.  I have not compared it against what we last sent them.",
+            "Conflict": false,
+            "Professional": false,
+            "Tone": false,
+            "Conflict Words %": 0.10227272727272728,
+            "Friendly Words %": 0.125,
+            "Sentiment": 0.25,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.07661612130885874
+        }
+    ],
+    "thread2137": [
+        {
+            "conflict": "no",
+            "professional": "yes",
+            "tone": "relaxed"
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 04:55:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "fyi---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 11:55 AM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.9188755020080321,
+            "Friendly Words %": 0.0024096385542168677,
+            "Sentiment": 0.06666666666666667,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08421498095641135
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 04:57:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "I assume that this is in lieu of the meeting we had scheduled for tomorrow afternoon?  Just want to make sure...Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 11:55 AM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.9052132701421801,
+            "Friendly Words %": 0.00315955766192733,
+            "Sentiment": 0.06666666666666667,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08202020202020202
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:24:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "Couldn't tell if you saw this...---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:24 PM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.9152,
+            "Friendly Words %": 0.0032,
+            "Sentiment": 0.06666666666666667,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08486622073578595
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:26:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "This replaces the meeting scheduled for 400 tomorrow.---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:26 PM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.9137380191693291,
+            "Friendly Words %": 0.0023961661341853034,
+            "Sentiment": 0.06666666666666667,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08288437629506838
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:29:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com CDT)",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "I have a heavy meeting/conference call schedule.  To be honest with you, I'm a bit unclear on who is doing what with this.  Any advice/insight?KayJohn Schwartzenburg@ENRON_DEVELOPMENT08/23/2000 01:28 PMDieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENTCDT)  Yeh, finally figured it out. I am trying to get out of town tomorrow, and this is on top of some other hurry-up stuff, so I will likely miss. Scotty will be there. Any chance youguys cna talk and geton the same page, or define differences, before then?Couldn't tell if you saw this...---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:24 PM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.8659638554216867,
+            "Friendly Words %": 0.009789156626506024,
+            "Sentiment": 0.14375,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.07944732297063903
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:30:00 -0700 (PDT)",
+            "Sender": "Suzanne Adams@ECT on 08/23/2000 01:29 PM",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "The room is 3AC5C1, according to this email.  I didn't check to see what it was before.CDT)  I've changed it on your calendar.  I suppose it's in the same room.\tKay Mann@ENRON\t08/23/2000 01:26 PM\t\t This replaces the meeting scheduled for 400 tomorrow.---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:26 PM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.8920807453416149,
+            "Friendly Words %": 0.004658385093167702,
+            "Sentiment": 0.06666666666666667,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08157793948678667
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:46:00 -0700 (PDT)",
+            "Sender": "Suzanne Adams@ECT on 08/23/2000 01:29 PM",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "CR [aka conference room] 5C1.  I know they are in the Allen Center.  I'm just damn smart, that's all.CDT)  Where do you see that room?  I saw no room information yet.\tKay Mann@ENRON\t08/23/2000 01:30 PM\t\tCDT)The room is 3AC5C1, according to this email.  I didn't check to see what it was before.CDT)  I've changed it on your calendar.  I suppose it's in the same room.\tKay Mann@ENRON\t08/23/2000 01:26 PM\t\t This replaces the meeting scheduled for 400 tomorrow.---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:26 PM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.8724528301886793,
+            "Friendly Words %": 0.006792452830188679,
+            "Sentiment": 0.060317460317460304,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08126330731014904
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 06:47:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com CDT)",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "You are a BIG HELP.  John Schwartzenburg@ENRON_DEVELOPMENT08/23/2000 01:33 PMCDT)  Advice and clarity  - - -  Uh . . . sure,uh how about \"There'll be a meeting and everyone will leave happy?\"CDT)  I have a heavy meeting/conference call schedule.  To be honest with you, I'm a bit unclear on who is doing what with this.  Any advice/insight?KayJohn Schwartzenburg@ENRON_DEVELOPMENT08/23/2000 01:28 PMDieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENTCDT)  Yeh, finally figured it out. I am trying to get out of town tomorrow, and this is on top of some other hurry-up stuff, so I will likely miss. Scotty will be there. Any chance youguys cna talk and geton the same page, or define differences, before then?Couldn't tell if you saw this...---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:24 PM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.8519061583577713,
+            "Friendly Words %": 0.01466275659824047,
+            "Sentiment": 0.275,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08053040103492885
+        },
+        {
+            "Timestamp": "Wed, 23 Aug 2000 09:52:00 -0700 (PDT)",
+            "Sender": "kay.mann@enron.com",
+            "Recipient": "Mitch",
+            "Subject": "Invitation - Westinghouse/Gleason iss (08/24/2000 12:30:00 PM CDT)",
+            "Text": "Here 'tis, and I'm a yes.---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 04:52 PM ---------------------------John.Normand@enron.com@enron.com on 08/23/2000 11:47:29 AMJohn.Schwartzenburg@enron.com, Scott.Dieball@enron.com, Bob.Greene@enron.com, Dennis.Alexander@enron.com, Brian.D.Barto@enron.com, Gavin.Gaul@enron.com, Mark.Dobler@enron.com, Ross.Newlin@enron.com                                                                                                                                                                                                                                                                                                                                08/24/2000 12:30 PM Local Time                                              08/24/2000 02:00 PM Local Time                                                                                                                                                                                        (J.Normand, M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene,      D.Alexander, B.Barto, G.Gaul, M.Dobler, R.Newlin))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     John Normand/ENRON_DEVELOPMENT wants you to attend a meeting.On        08/24/2000 12:30:00 PM CDTFor       1 hour 30 minutes          Mitch Robinson/Corp/Enron (Invited)          Kay Mann/Corp/Enron (Invited)          John Schwartzenburg/ENRON_DEVELOPMENT (Invited)          Scott Dieball/ENRON_DEVELOPMENT (Invited)          Bob Greene/ENRON_DEVELOPMENT (Invited)          Dennis Alexander/ENRON_DEVELOPMENT (Invited)          Brian D Barto/ENRON_DEVELOPMENT (Invited)          Gavin Gaul/ENRON_DEVELOPMENT (Invited)          Mark Dobler/NA/Enron (Invited)          Ross Newlin/ENRON_DEVELOPMENT (Invited)   Westinghouse/Gleason issues CR#5C1 - Lunch served (J.Normand,M.Robinson, K.Mann, J.Schwartzenburg, S.Dieball, B.Greene, D.Alexander,B.Barto, G.Gaul, M.Dobler, R.Newlin))",
+            "Conflict": false,
+            "Professional": true,
+            "Tone": false,
+            "Conflict Words %": 0.9152,
+            "Friendly Words %": 0.0032,
+            "Sentiment": 0.06666666666666667,
+            "Subject Sentiment": 0.0,
+            "Punctuation %": 0.08511530398322852
+        }
     ]
-
 }

@@ -6155,5 +6155,1912 @@
         "Subject Sentiment": 0.1,
         "Punctuation %": 0.03447110510307536
     }
+],
+"thread300": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 19 Nov 2001 09:11:28 -0800 (PST)",
+        "Sender": "jbennett@gmssr.com",
+        "Recipient": "jdasovic@enron",
+        "Subject": "Implementation of the Suspension Direct Access -- UDCs' Plan",
+        "Text": "On Friday, November 16th, the UDCs submitted their joint plan forimplementing the suspension of direct access.  Parties have until,Wednesday, November 28th, to comment.The following are proposed implementation rules for which the UDCs seekCommission approval:1.  A  DASR can only be processed if the customer name appears on the ESPList submitted to the UDCs on October 5, 2001.2. In order to submit an ESP List the ESP must have a valid ESP/UDC ServiceAgreement as of September 20, 2001 and , for ESPs serving small customers,they must have in effect a valid Commission registration as of September 20,2001.3. For a DASR to be processed for a residential or small commercial customeraccount, the ESP must be able to demonstrate that the required third partyverification took place prior to September 20, 2001.4.  Customers should not be allowed to switch from one ESP to another afterSeptember 20 unless the new ESP had a valid ESP- customer contract in placeon or before Sept. 20th.5.  Seamless moves within a UDC's service territory will be allowed.6. For customers on bundled service as of September 20, 2001 (but stillunder a DA contract), the UDCs are proposing not to allow such customers toprocess DASRs even if their names are on the October 5 list.           7.  If all  accounts of one ESP transferred to another as a result of amerger, then the situation is okay because no new DASR would be required;requests for one customer to switch from one ESP to another only allowed ifthe new ESP-customer relationship had a contract prior to Sept. 20, 2001.8. Changes in customer identity allowed on  case by case basis (e.g., if acustomer changes its type of business it would not be allowed).9. One  customer can not transfer or assign its direct access service rightsto another.10.  Processing of DASRs submitted for customers who attempt to opt into acommunity aggregation program after the suspension date should not beallowed.In addition to the above, the UDCs proposed three additional options forimplementing the suspension.1.  The Commission should impose a DASR cut-off date (received andaccepted).2.  If the Commission does not impose a strict DASR cut off, it shouldrequire that any ESP which wishes to have a DASR processed after the cut offto submit their account specific DASR information and ESP contract to theCommission along with an explanation of why the customer is eligible toreceive DA.  The UDC will not process the DASR until it receives an okayfrom the Commission.3.  The ESP certifies through an affidavit that a particular DASR wasassociated with a contract in existence on September 20, 2001 (the UDCs setforth a proposed affidavit.) If you have any questions, please callJeanne        ",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.09719222462203024,
+        "Friendly Words %": 0.11231101511879049,
+        "Sentiment": 0.06458333333333333,
+        "Subject Sentiment": 0.1,
+        "Punctuation %": 0.025744759102611255
+    },
+    {
+        "Timestamp": "Mon, 19 Nov 2001 09:18:04 -0800 (PST)",
+        "Sender": "\tJBennett <JBennett@GMSSR.com>@ENRON  Sent:\tMonday, November 19, 2001 11:11 AM",
+        "Recipient": "b",
+        "Subject": "Implementation of the Suspension Direct Access -- UDCs' Plan",
+        "Text": "Can we talk this week on our response?Jim -----Original Message-----Sent:\tMonday, November 19, 2001 11:11 AMTo:\tJeff Dasovich (E-mail); Jim Steffes (E-mail); Sue Mara (E-mail)Cc:\tMDaySubject:\tImplementation of the Suspension Direct Access -- UDCs' PlanOn Friday, November 16th, the UDCs submitted their joint plan forimplementing the suspension of direct access.  Parties have until,Wednesday, November 28th, to comment.The following are proposed implementation rules for which the UDCs seekCommission approval:1.  A  DASR can only be processed if the customer name appears on the ESPList submitted to the UDCs on October 5, 2001.2. In order to submit an ESP List the ESP must have a valid ESP/UDC ServiceAgreement as of September 20, 2001 and , for ESPs serving small customers,they must have in effect a valid Commission registration as of September 20,2001.3. For a DASR to be processed for a residential or small commercial customeraccount, the ESP must be able to demonstrate that the required third partyverification took place prior to September 20, 2001.4.  Customers should not be allowed to switch from one ESP to another afterSeptember 20 unless the new ESP had a valid ESP- customer contract in placeon or before Sept. 20th.5.  Seamless moves within a UDC's service territory will be allowed.6. For customers on bundled service as of September 20, 2001 (but stillunder a DA contract), the UDCs are proposing not to allow such customers toprocess DASRs even if their names are on the October 5 list.7.  If all  accounts of one ESP transferred to another as a result of amerger, then the situation is okay because no new DASR would be required;requests for one customer to switch from one ESP to another only allowed ifthe new ESP-customer relationship had a contract prior to Sept. 20, 2001.8. Changes in customer identity allowed on  case by case basis (e.g., if acustomer changes its type of business it would not be allowed).9. One  customer can not transfer or assign its direct access service rightsto another.10.  Processing of DASRs submitted for customers who attempt to opt into acommunity aggregation program after the suspension date should not beallowed.In addition to the above, the UDCs proposed three additional options forimplementing the suspension.1.  The Commission should impose a DASR cut-off date (received andaccepted).2.  If the Commission does not impose a strict DASR cut off, it shouldrequire that any ESP which wishes to have a DASR processed after the cut offto submit their account specific DASR information and ESP contract to theCommission along with an explanation of why the customer is eligible toreceive DA.  The UDC will not process the DASR until it receives an okayfrom the Commission.3.  The ESP certifies through an affidavit that a particular DASR wasassociated with a contract in existence on September 20, 2001 (the UDCs setforth a proposed affidavit.)If you have any questions, please callJeanne        ",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.07484407484407485,
+        "Friendly Words %": 0.1101871101871102,
+        "Sentiment": 0.07604166666666666,
+        "Subject Sentiment": 0.1,
+        "Punctuation %": 0.03447110510307536
+    }
+],
+"thread766": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Tue, 20 Mar 2001 08:57:00 -0800 (PST)",
+        "Sender": "jeff.dasovich@enron.com\tsmara@enron.com, wgang@enron.com",
+        "Recipient": "sgovenar@govadv",
+        "Subject": "Air Force Talking Paper of Direct Access]",
+        "Text": "I think we ought to \"share it\" with folks.  Bill Gang, do you have any objections?Jeff\tScott Govenar <sgovenar@govadv.com>\t03/20/2001 04:52 PM\t\t Janel Guerrero <Janel.Guerrero@enron.com>, Susan J Mara <smara@enron.com>We can use the Air Force DA document under the Freedom of InformationAct.  We could also distribute it to the Administration and Legislatureanonymously.   Please advise.----- Message from Wells Bill LtCol HQ AFCESA/ULT <Bill.Wells@tyndall.af.mil> on Mon, 19 Mar 2001 23:18:12 -0600 -----To:\tScott Govenar <sgovenar@govadv.com>If you had filed a Freedom of Information Act request, I would have sent itto you, so I treated your request as the functional equivalent of a FOIArequest.  That basically means that it is in the pubic domain.  While youcan not say you are distributing it on the behalf of the Air Force, you cancertainly share it with anyone you wish.Bill C. Wells, Lt Col, USAFChief, Utility Litigation TeamDSN 523-6347; 850-283-6347Note new e-mail address:    bill.wells@tyndall.af.mil",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.09210526315789473,
+        "Friendly Words %": 0.09210526315789473,
+        "Sentiment": 0.13636363636363635,
+        "Subject Sentiment": 0.1,
+        "Punctuation %": 0.06995073891625615
+    }
+],
+"thread767": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Fri, 16 Mar 2001 14:53:16 -0600",
+        "Sender": "Wells Bill LtCol HQ AFCESA/ULT <Bill.Wells@tyndall.af.mil>boundary=\"----_=_NextPart_000_01C0AE5B.1F96B000\"",
+        "Recipient": "\"Govenar Scott (E-mail)\" <sgovenar@govadv",
+        "Subject": "Air Force Talking Paper of Direct Access",
+        "Text": "FYI.  We've been given permission to distribute, but no \"on behalf of\" the Air Force.Best,Jeff----- Forwarded by Jeff Dasovich/NA/Enron on 03/21/2001 05:20 PM -----\tScott Govenar <sgovenar@govadv.com>\t03/21/2001 02:11 PM\t\t As requested.with SMTP; 16 Mar 2001 21:15:38 -0000tynsun06.tyndall.af.mil with ESMTP id OAA25406; Fri, 16 Mar 2001 14:52:48 -0600 (CST)[131.55.249.98]) by tynsun06.tyndall.af.mil with ESMTP id OAA25402; Fri, 16 Mar 2001 14:52:45 -0600 (CST)id <HB840M6F>; Fri, 16 Mar 2001 14:53:18 -0600boundary=\"----_=_NextPart_000_01C0AE5B.1F96B000\"As requested <<Direct Acccess TP(16 Mar 01).doc>>Bill C. Wells, Lt Col, USAFChief, Utility Litigation TeamDSN 523-6347; 850-283-6347Note new e-mail address:    bill.wells@tyndall.af.mil - Direct Acccess TP(16 Mar 01).doc",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.07216494845360824,
+        "Friendly Words %": 0.010309278350515464,
+        "Sentiment": 0.11818181818181818,
+        "Subject Sentiment": 0.1,
+        "Punctuation %": 0.13513513513513514
+    }
+],
+"thread768": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Tue, 20 Mar 2001 09:00:00 -0800 (PST)",
+        "Sender": "jeff.dasovich@enron.com",
+        "Recipient": "susan",
+        "Subject": "can you send info",
+        "Text": " - Hertzberg final.docHere it is darlin'.  It's an attachment to the main text of the document. If you have any questions, or need anything else.  Don't hesitate.Best,Jeff----- Forwarded by Jeff Dasovich/NA/Enron on 03/20/2001 04:59 PM -----\tSusan M Landwehr\t03/20/2001 04:06 PM\t\t JEff--I was just on the phone with Kaufman and he asked if you could send me a great document that you put together on a demand buy down program (and he said it was the one you put together for Hertberg).  Could you send either via e mail or fax?  612-339-4392",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.09375,
+        "Friendly Words %": 0.11458333333333333,
+        "Sentiment": 0.24444444444444446,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06839186691312385
+    },
+    {
+        "Timestamp": "Tue, 20 Mar 2001 09:07:00 -0800 (PST)",
+        "Sender": "jeff.dasovich@enron.com",
+        "Recipient": "susan",
+        "Subject": "can you send info",
+        "Text": "talks like marge, looks like elle mcpherson.",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.0,
+        "Friendly Words %": 0.14285714285714285,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.045454545454545456
+    },
+    {
+        "Timestamp": "Thu, 26 Apr 2001 08:35:00 -0700 (PDT)",
+        "Sender": "jeff.dasovich@enron.com",
+        "Recipient": "susan",
+        "Subject": "can you send info",
+        "Text": "Sounds great.  Could you touch base with Paul and coordinate?  Muchas gracias.Best,Jeff",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.14285714285714285,
+        "Friendly Words %": 0.14285714285714285,
+        "Sentiment": 0.0,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04597701149425287
+    },
+    {
+        "Timestamp": "Thu, 26 Apr 2001 09:00:00 -0700 (PDT)",
+        "Sender": "jeff.dasovich@enron.com",
+        "Recipient": "susan",
+        "Subject": "can you send info",
+        "Text": "CEO of Edison.\tSusan M Landwehr\t04/26/2001 03:37 PM\t\tJust put a call in to him.  Who is John Bryson?  \tJeff Dasovich\t04/26/2001 03:35 PM\t\tSounds great.  Could you touch base with Paul and coordinate?  Muchas gracias.Best,Jeff",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.1388888888888889,
+        "Friendly Words %": 0.08333333333333333,
+        "Sentiment": 0.0,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.057777777777777775
+    }
+],
+"thread1352": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Tue, 20 Nov 2001 16:06:37 -0800 (PST)",
+        "Sender": "mike.grigsby@enron.com\tsuzanne.christiansen@enron.com, frank.ermis@enron.com, ",
+        "Recipient": "kam",
+        "Subject": "DEC physical",
+        "Text": "We will hold off transferring any physical positions desk to desk until the end of bidweek.  After NX1, we will transfer positions at a daily EOL Index mid price.  Please monitor my book and others to make certain DEC deals are not being transferred prior to NX1 at an IF monthly or GD daily mid price.Thanks,Mike",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.06896551724137931,
+        "Friendly Words %": 0.08620689655172414,
+        "Sentiment": 0.05357142857142857,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.01597444089456869
+    },
+    {
+        "Timestamp": "Tue, 20 Nov 2001 16:06:37 -0800 (PST)",
+        "Sender": "mike.grigsby@enron.com\tsuzanne.christiansen@enron.com, frank.ermis@enron.com, ",
+        "Recipient": "kam",
+        "Subject": "DEC physical",
+        "Text": "We will hold off transferring any physical positions desk to desk until the end of bidweek.  After NX1, we will transfer positions at a daily EOL Index mid price.  Please monitor my book and others to make certain DEC deals are not being transferred prior to NX1 at an IF monthly or GD daily mid price.Thanks,Mike",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.06896551724137931,
+        "Friendly Words %": 0.08620689655172414,
+        "Sentiment": 0.05357142857142857,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.01597444089456869
+    }
+],
+"thread1356": [
+    {
+        "conflict": "no",
+        "professional": "no",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Wed, 3 Oct 2001 08:36:32 -0700 (PDT)",
+        "Sender": "crystal.dobson@enron.com",
+        "Recipient": "keith",
+        "Subject": "Hi!",
+        "Text": "Hi Keith,Just thought I would see if you are still with Enron, and lo and behold! there is your name.  I hope that all is going well for you.  I haven't looked closely, but I assume that you are still in Houston.  Do you like it?All is well with me.  I'm living in Oxford, England, and am now working part time with a little company called Enron Direct.  The part time comes because I have a beautiful little 2 year old daughter, and she keeps me very busy.Write back if you get a chance.Crystalps  what is (little) Jon's last name?  Does he still work for Enron in Houston also?  CrystalAnd I don't mean Lavorato!",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.1557377049180328,
+        "Friendly Words %": 0.13114754098360656,
+        "Sentiment": -0.10788690476190477,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.03908794788273615
+    },
+    {
+        "Timestamp": "Mon, 30 Oct 2000 08:28:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay Mann <Kay",
+        "Subject": "Hi!",
+        "Text": "SU was fun, but there was  a little incident with a streaker (more like a stroller on stage).  Otherwise, it was great.  Paige did really well, and she was front and center for most of their act.I don't know what we are going to do about Thanksgiving.  Neil and I are negotiating. I neglected to discuss it with Paige this weekend, of course.  It is hard to believe it is only a few weeks away.Michael and I are both better, although he didn't get better until Friday night. Hi to all!Love,Kay\"Lisa Clarke\" <lisa@casa-de-clarke.com> on 10/30/2000 04:21:28 PMHello!How did things go in Georgetown? I just wanted to see how it went and tellyou again how sorry I am that things did not work out so that we could seeyou. Also, are yall going to Palacios for Thanksgiving? Are you staying atthe bed and breakfast? I think we are going to come down on Saturday morningand we were thinking about getting a room for that night. Bobby claims thatthe pink house becomes the house of snores when we all stay there. He mayhave a point!Are you and Michael feeling better??Love you!Lisa",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.05670103092783505,
+        "Friendly Words %": 0.14432989690721648,
+        "Sentiment": 0.17225308641975307,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04011194029850746
+    },
+    {
+        "Timestamp": "Thu, 15 Nov 2001 09:01:03 -0800 (PST)",
+        "Sender": "tabish.rizvi@capco.com",
+        "Recipient": "whalley@enron",
+        "Subject": "Hi!",
+        "Text": "Greg,\tI'm sure these days have been tremendously busy for you and I hopethat, whatever the outcome, it turns out to be the best for you, your familyand colleagues.  I've been following the news very closely and it reallyunfortunate to read about it.  I am still shocked how a handful of peoplecan cause so much trouble.  Hope everything pulls through; if anyone is theright for the job, it's got to be you.\tWith this said, I realize that you probably have very little\"bandwidth\" for matters outside of Enron these days.  However, it is thatseason again where MBA  applications are due and I would be honored if Icould get another recommendation from you.  Unfortunately, I did not getinto Harvard last year.  To make your life easier, I WILL DO ALL OF THE WORK- i.e. write the letter and fill out the forms, etc. - and only ask for yourJohn Hancock (signature).\tSince I have a rather extensive list of applications, it will beperfectly appropriate to draft a general letter of recommendation thataddresses topics from all of the schools.  I will write this letter and ifyou accept my request, I would send you ten-personalized copies (one foreach school that I am applying to) for you signatures.  That's all!  Thisway, you will spend very little time in providing me superb letters ofrecommendations, and both you and I will be very happy.  \tAnyway, I would actually like to speak with you about this and just\"life in general\" if possible.  I know your schedule at work probablydoesn't permit you to have free-time (god forbid).  I do have your homenumber, but I like to save it only for special occaisions.  I think thismight be one!\tPlease advise.-Tabish************************************************************************The information in this email is confidential and is intended solelyfor the addressee(s). Access to this email by anyone else is unauthorised. If you are notan intended recipient, please notify the sender of this email immediately. You should not copy, use or disseminate the information contained in the email.Any views expressed in this message are those of the individualsender, except where the sender specifically states them to bethe views of Capco.http://www.capco.com***********************************************************************",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.10526315789473684,
+        "Friendly Words %": 0.1329639889196676,
+        "Sentiment": 0.06504464285714287,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.0945054945054945
+    }
+],
+"thread1357": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 29 Oct 2001 15:11:56 -0800 (PST)",
+        "Sender": "keith.holst@enron.com",
+        "Recipient": "peter",
+        "Subject": "Enron trades]",
+        "Text": "Peter, Credit just blessed these transactions.  Give me a call in the morning and we can confirm them. Thanks.Keith",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.15,
+        "Friendly Words %": 0.1,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.034782608695652174
+    },
+    {
+        "Timestamp": "Mon, 29 Oct 2001 15:02:05 -0800 (PST)",
+        "Sender": "keith.holst@enron.com",
+        "Recipient": "peter",
+        "Subject": "Enron trades]",
+        "Text": "Peter, Enron's credit department is reviewing the proposed transactions.  We will have a response tonight. Keith713-853-7069",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.11764705882352941,
+        "Friendly Words %": 0.11764705882352941,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04838709677419355
+    },
+    {
+        "Timestamp": "Mon, 29 Oct 2001 13:36:23 -0800 (PST)",
+        "Sender": "keith.holst@enron.com",
+        "Recipient": "max",
+        "Subject": "Enron trades]",
+        "Text": " ",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 1.0,
+        "Friendly Words %": 0.0,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.0
+    }
+],
+"thread1359": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Tue, 30 Oct 2001 16:03:13 -0800 (PST)",
+        "Sender": "keith.holst@enron.com",
+        "Recipient": "'nagle@enron",
+        "Subject": "enron risk remaining natgas position",
+        "Text": "Rita:In an effort to handle these matters in an efficient and coordinated manner, we have assigned Geoff Storey as the Enron point person.  I am forwarding your request to him.  Geoff can be reached at 713-853-7058.  Please let me know if I can help in any way.ThanksKeith",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.18,
+        "Friendly Words %": 0.1,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.029411764705882353
+    },
+    {
+        "Sender": "Lesin, Alex ",
+        "Recipient": "Bachman, Paul; Griffith, Mark; Nagle, Rita; Petry, Herb",
+        "Subject": "enron risk remaining natgas position",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Subject Sentiment": 0.0
+    },
+    {
+        "Timestamp": "Tue, 30 Oct 2001 16:12:32 -0800 (PST)",
+        "Sender": "keith.holst@enron.com",
+        "Recipient": "geoff",
+        "Subject": "enron risk remaining natgas position",
+        "Text": "Geoff:Attached is J.Aron's request and their exposure to Enron.  Rita has not already found a suitable offset as she felt it was most appropriate to get our permission first.  PLease make go away.Also, I received a similar request from David Dutch at Entergy-Koch.  Please call him at 713-544-5580.  Make this go away too.Finally, find paper I put on your desk from Harrison wtih Sempra.Have fun Sweet Pea!!!",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.16901408450704225,
+        "Friendly Words %": 0.08450704225352113,
+        "Sentiment": 0.43671875000000004,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04411764705882353
+    },
+    {
+        "Sender": "Lesin, Alex ",
+        "Recipient": "Bachman, Paul; Griffith, Mark; Nagle, Rita; Petry, Herb",
+        "Subject": "enron risk remaining natgas position",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Subject Sentiment": 0.0
+    }
+],
+"thread2138": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Wed, 23 Aug 2000 06:07:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Mitch Robinson@Enron, Mark Dobler/NA/Enron@Enron, Ross Newlin/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, John ",
+        "Subject": "Westinghouse/Gleason Meeting Agenda",
+        "Text": "There's a meeting with a cast of characters to discuss the Westinhouse warranty issues.  It is tomorrow (Thurs) at 1230.  Do you have any interest in sitting in?Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:06 PM ---------------------------John Normand@ENRON_DEVELOPMENT08/23/2000 01:03 PMNewlin/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, John Schwartzenburg/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Kay Mann@ENRON, Bob Greene/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Dennis Alexander/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Gavin Gaul/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Brian D Barto/ENRON_DEVELOPMENT@ENRON_DEVELOPMENTThe proposed agenda for tomorrow's meeting is as follow:Low frequency sound issueMegawatt limit @ 182 MwUse of evap coolerHeat Rate deficiencyLate equipment deliveries We can also talk about Wheatland performance.Let me know if there is anything else we need to add to the agenda.Thanks,   John",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.10679611650485436,
+        "Friendly Words %": 0.07766990291262135,
+        "Sentiment": 0.4,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.10918367346938776
+    },
+    {
+        "Timestamp": "Fri, 25 Aug 2000 03:39:00 -0700 (PDT)",
+        "Sender": "Richard B Sanders@ECT on 08/25/2000 06:49 AM",
+        "Recipient": "Mitch Robinson@Enron, Mark Dobler/NA/Enron@Enron, Ross Newlin/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, John ",
+        "Subject": "Westinghouse/Gleason Meeting Agenda",
+        "Text": "Sounds good.  Early in the week is better for me.Can we get together next week so I can get an update? Twanda will schedule.\tKay Mann@ENRON\t08/23/2000 01:07 PM\t\t There's a meeting with a cast of characters to discuss the Westinhouse warranty issues.  It is tomorrow (Thurs) at 1230.  Do you have any interest in sitting in?Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 08/23/2000 01:06 PM ---------------------------John Normand@ENRON_DEVELOPMENT08/23/2000 01:03 PMNewlin/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, John Schwartzenburg/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Kay Mann@ENRON, Bob Greene/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Dennis Alexander/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Gavin Gaul/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Brian D Barto/ENRON_DEVELOPMENT@ENRON_DEVELOPMENTThe proposed agenda for tomorrow's meeting is as follow:Low frequency sound issueMegawatt limit @ 182 MwUse of evap coolerHeat Rate deficiencyLate equipment deliveries We can also talk about Wheatland performance.Let me know if there is anything else we need to add to the agenda.Thanks,   John",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.0916030534351145,
+        "Friendly Words %": 0.08396946564885496,
+        "Sentiment": 0.4333333333333333,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.10070052539404553
+    }
+],
+"thread2139": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 12 Jun 2000 03:30:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\tsjensen@bracepatt.com, jeff.blumenthal@enron.com",
+        "Recipient": "brian",
+        "Subject": "Vitro consolidation agreement",
+        "Text": "Team Vitro:I wanted to run these changes by you before sending them to Jeff Smith.Jeff S. has lobbied for deleting the language on assignment, and state that assignment of the consolidation agreement will be subject to the same terms, etc. as the other 2 contracts.  He also provide alternative language which appears to be close to what was in the previous draft. Since I didn't know the genesis of the language in the consolidation agreement, so I thought I would check with you first.I eliminated 5 (a) because the contracts allow for partial termination.",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.06315789473684211,
+        "Friendly Words %": 0.10526315789473684,
+        "Sentiment": -0.11875,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.025089605734767026
+    },
+    {
+        "Timestamp": "Mon, 12 Jun 2000 02:34:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\tjeff.blumenthal@enron.com",
+        "Recipient": "Brian D Barto/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Peggy Banczak/HOU/ECT@ECT, Steve Irvin/HOU/ECT@ECT, sjensen@bracepatt",
+        "Subject": "Vitro consolidation agreement",
+        "Text": "This time I'll include the attachment.  It must be Monday.Kay   \tEnron North America Corp.\t\tBanczak/HOU/ECT@ECT, Steve Irvin/HOU/ECT@ECT, sjensen@bracepatt.com, Jeff Blumenthal/HOU/ECT@ECTTeam Vitro:I wanted to run these changes by you before sending them to Jeff Smith.Jeff S. has lobbied for deleting the language on assignment, and state that assignment of the consolidation agreement will be subject to the same terms, etc. as the other 2 contracts.  He also provide alternative language which appears to be close to what was in the previous draft. Since I didn't know the genesis of the language in the consolidation agreement, so I thought I would check with you first.I eliminated 5 (a) because the contracts allow for partial termination.",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.09482758620689655,
+        "Friendly Words %": 0.09482758620689655,
+        "Sentiment": -0.11875,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04289544235924933
+    }
+],
+"thread2140": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Thu, 24 Aug 2000 05:25:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "jswank@graceschool",
+        "Subject": "Kindergarten",
+        "Text": "Hi Jo,I left you a voice mail, but being an email addict I thought I would send you a note as well.  Our son, Michael is in a Montessori kindergarten, which we have decided may not be most suitable for him.  We discussed it with Vivian Shudde, and she suggested that I give you a call about the Grace School.  My husband and I would like to visit Grace.  We are wondering if it might be possible to visit tomorrow.  Please let me know what you think.Thanks,Kay Mann",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.11827956989247312,
+        "Friendly Words %": 0.16129032258064516,
+        "Sentiment": 0.525,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.025806451612903226
+    },
+    {
+        "Timestamp": "Fri, 25 Aug 2000 02:33:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay",
+        "Subject": "Kindergarten",
+        "Text": "Jo,We had some unexpected complications with scheduling today.  We'll have to reschedule.Thanks for such a prompt reply.KayJo Swank <JSwank@graceschool.org> on 08/24/2000 05:21:10 PMDear Kay,I would be delighted to visit with you and your husband tomorrow.  I willbe free at 10:30 a.m.  Will this work for you?  I will call a leave amessage as well.  Hope to meet you tomorrow.JoAt 12:25 PM 8/24/00 -0500, you wrote:>Hi Jo,",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.11267605633802817,
+        "Friendly Words %": 0.2112676056338028,
+        "Sentiment": 0.2833333333333333,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06855791962174941
+    },
+    {
+        "Timestamp": "Fri, 25 Aug 2000 05:54:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay",
+        "Subject": "Kindergarten",
+        "Text": "That would be great.Kay Mann29 Inverness Park WayHouston 77055Thanks,KayJo Swank <JSwank@graceschool.org> on 08/25/2000 12:44:42 PMDear Kay,Just let me know a convenient day and time for you.  In the meantime,perhaps you would like for us to go ahead and mail an admissions packet toyou.  If so, please give me your address and it will go out in today's mail.Thanks!JoAt 09:33 AM 8/25/00 -0500, you wrote:",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.10606060606060606,
+        "Friendly Words %": 0.10606060606060606,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.05925925925925926
+    }
+],
+"thread2141": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Fri, 25 Aug 2000 03:55:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\theather.kroll@enron.com, kay.mann@enron.com, ozzie.pagan@enron.com, ",
+        "Recipient": "\"Fine, Jonathan\" <JFine@kilstock",
+        "Subject": "Response to Public Staff Data Request",
+        "Text": "Here's a suggestion for the equipment question:ENA and its affiliates have contractual rights to numerous turbines, several of which can satisfy the technical and scheduling requirements of this project, and some of which are already manufactured.  In the case of turbines still in the manufacturing process, ENA has firm commitments for delivery, backed by liquidated damages clauses and other financial incentives.\"Duncan, Allyson\" <aduncan@kilstock.com> on 08/25/2000 07:40:52 AM\"'John Moore'\" <John.Moore@enron.com>, \"'Heather Kroll'\" <Heather.Kroll@enron.com>, \"'Kay Mann'\" <Kay.Mann@enron.com>, \"'Ozzie Pagan'\" <Ozzie.Pagan@enron.com>, \"'Tom Chapman'\" <Tom.Chapman@enron.com>, \"'Jeffrey Keenan'\" <Jeffrey.Keenan@enron.com>, \"'Reagan.Rorschach@enron.com'\" <Reagan.Rorschach@enron.com>I have received material from Reagan in response to Question No. 5--thanks.Reagan, do you have problems providing the total project cost under seal?We can file as is, but I expect the public Staff will want to follow up.Also, we do have the cost data, and are filing that under seal.  I haveindicated that we will file the supporting documentation next Tuesday.   Theonly thing we are awaiting to day is the paragraph explaining that turbinesare indeed available. I did want to call your attention to the fact that I took a sentence out ofthe response to No. 17 regarding Enron's intent to operate the plant as amerchant facility after the expiration of the PPA.  You have been verystraightforward about that and it is clear from the rest of the answer.However, given the Commission's skittishness about merchant facilities, Iwould rather not highlight it.We would like to file the responses by the end of the day, with theexception of the supporting documentation on the cost data.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.07509881422924901,
+        "Friendly Words %": 0.09881422924901186,
+        "Sentiment": 0.14791666666666667,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06437041219649915
+    },
+    {
+        "Timestamp": "Fri, 25 Aug 2000 05:14:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\trorschak@enron.com, john.moore@enron.com, heather.kroll@enron.com, ",
+        "Recipient": "aduncan@kilstock",
+        "Subject": "Response to Public Staff Data Request",
+        "Text": "Here are my comments to the draft response:4.  I'm a bit troubled by the first sentence, since I really don't know what may have been on the drawing board earlier.  Maybe someone else can vouch for this statement. Otherwise, I suggest deleting it.17.  The reference to NC Power utilizing the plant should be Applicant (third sentence).18.  I would change the second sentence to begin \"It is intended that the plant will be designed, constructed and operated....\"Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.0875,
+        "Friendly Words %": 0.1125,
+        "Sentiment": -0.012499999999999997,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04516129032258064
+    }
+],
+"thread2142": [
+    {
+        "conflict": "no",
+        "professional": "no",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Fri, 3 Nov 2000 05:29:00 -0800 (PST)",
+        "Sender": "Suzanne Adams@ECT on 11/03/2000 01:31 PMHeinitz/HOU/ECT@ECT, Brenda Whitehead/HOU/ECT@ECT, Kaye Ellis/HOU/ECT@ECT, ",
+        "Recipient": "Carol St Clair/HOU/ECT@ECT, Dan Lyons/HOU/ECT@ECT, Mary J Kay Mann/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT, Janette ",
+        "Subject": "Vacation Day",
+        "Text": "I think it is a great day to work!Heinitz/HOU/ECT@ECT, Brenda Whitehead/HOU/ECT@ECT, Kaye Ellis/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT, Janette Elbertson/HOU/ECT@ECTIf no one has any objections, I would like to take off Monday, November 27, 2000.  My motherinlaw and sisterinlaw will be in from Tulsa, and I think it would be nice to take off.  Brenda, please get me a temporary for this day.  Thanks.",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.09090909090909091,
+        "Friendly Words %": 0.18181818181818182,
+        "Sentiment": 0.5333333333333333,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.07728337236533958
+    },
+    {
+        "Timestamp": "Fri, 3 Nov 2000 05:39:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "suzanne",
+        "Subject": "Vacation Day",
+        "Text": "I could nap in this weather.  Maybe I'll leave early.",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.09090909090909091,
+        "Friendly Words %": 0.0,
+        "Sentiment": 0.1,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.05660377358490566
+    }
+],
+"thread2143": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 12 Jun 2000 06:36:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\tsjansen@bracepatt.com",
+        "Recipient": "Brian",
+        "Subject": "Tax Language Changes to On/Off Shore Contracts for Vitro",
+        "Text": "Hello again,If these contracts are going to be assigned immediately to Mitsui, isn't the issue of a guaranty a Mitsui issue? Is this addressed in the EPC contracts?If an Enron entity must give a guaranty, I would think we would want ENA to give it, to be replaced by a Mitsui guaranty unless we have some safeguard against the possibility of paying Mitsui and Mitsui not paying GE, so that we would have to pay twice.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 06/12/2000 01:31 PM ---------------------------jeffreye.smith@ps.ge.com on 06/12/2000 01:06:56 PMBrian,Thanks.  The changes to the on & off-shore contracts are OK.I have replied to an e-mail from Kay concerning the \"letter agreement\", ofearlier today.  As far as I am concerned, we are ready to go there (you werecopied).Kay indicated that the consolidation agreement would be today's focus ofattention.  I have not seen any feedback pursuant to my 1/Jun/00 e-mail.      <<Enron Monterrey/Vitro>> Your comment about the parent company guaranty reminds me that the abovee-mail also called for such a guaranty from Enron, as Enron NA is no longerthe purchaser.Regards,Jeff Smith",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.10270270270270271,
+        "Friendly Words %": 0.14594594594594595,
+        "Sentiment": 0.15000000000000002,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.08658008658008658
+    },
+    {
+        "Timestamp": "Mon, 12 Jun 2000 06:37:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Brian",
+        "Subject": "Tax Language Changes to On/Off Shore Contracts for Vitro",
+        "Text": "---------------------- Forwarded by Kay Mann/Corp/Enron on 06/12/2000 01:37 PM ---------------------------   \tEnron North America Corp.\t\tBarto/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, sjansen@bracepatt.comHello again,If these contracts are going to be assigned immediately to Mitsui, isn't the issue of a guaranty a Mitsui issue? Is this addressed in the EPC contracts?If an Enron entity must give a guaranty, I would think we would want ENA to give it, to be replaced by a Mitsui guaranty unless we have some safeguard against the possibility of paying Mitsui and Mitsui not paying GE, so that we would have to pay twice.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 06/12/2000 01:31 PM ---------------------------jeffreye.smith@ps.ge.com on 06/12/2000 01:06:56 PMBrian,Thanks.  The changes to the on & off-shore contracts are OK.I have replied to an e-mail from Kay concerning the \"letter agreement\", ofearlier today.  As far as I am concerned, we are ready to go there (you werecopied).Kay indicated that the consolidation agreement would be today's focus ofattention.  I have not seen any feedback pursuant to my 1/Jun/00 e-mail.      <<Enron Monterrey/Vitro>> Your comment about the parent company guaranty reminds me that the abovee-mail also called for such a guaranty from Enron, as Enron NA is no longerthe purchaser.Regards,Jeff Smith",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.11442786069651742,
+        "Friendly Words %": 0.13432835820895522,
+        "Sentiment": 0.15000000000000002,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.11946902654867257
+    }
+],
+"thread2229": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 02:13:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\troseann.engeldorf@enron.com, scott.dieball@enron.com",
+        "Recipient": "chris",
+        "Subject": "Revised Change Order",
+        "Text": "Here's the latest revision inserting the drawing numbers.  Is it ready to go to GE?Scott, payment for change orders is addressed in the contract.  ",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.18518518518518517,
+        "Friendly Words %": 0.07407407407407407,
+        "Sentiment": 0.35,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.034013605442176874
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 07:11:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Chris Booth/NA/Enron@Enron, Ben Jacoby/HOU/ECT@ECT, Lisa Bills/Corp/Enron@ENRON, Roseann Engeldorf/Corp/Enron@ENRON, Scott ",
+        "Subject": "Revised Change Order",
+        "Text": "Sorry, didn't mean to forget you.---------------------- Forwarded by Kay Mann/Corp/Enron on 10/03/2000 02:10 PM ---------------------------   \tEnron North America Corp.\t\tBills/Corp/Enron@ENRON, Roseann Engeldorf/Corp/Enron@ENRON, Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENtHere's the latest revision inserting the drawing numbers.  Is it ready to go to GE?Scott, payment for change orders is addressed in the contract.  ",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.17647058823529413,
+        "Friendly Words %": 0.0784313725490196,
+        "Sentiment": 0.04791666666666667,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.176056338028169
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 10:03:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Chris Booth/NA/Enron@Enron, Ben Jacoby/HOU/ECT@ECT, Lisa Bills/Corp/Enron@ENRON, Roseann Engeldorf/Corp/Enron@ENRON, Scott ",
+        "Subject": "Revised Change Order",
+        "Text": "This is for the PSCO project, and Ben wants Chris to sign it.  I'm thinking that this is Dale's project, so I'm sending him a copy.If it looks ok to you I will clean it up and send it to GE for their review.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 10/03/2000 05:01 PM ---------------------------   \tEnron North America Corp.\t\tBills/Corp/Enron@ENRON, Roseann Engeldorf/Corp/Enron@ENRON, Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENtHere's the latest revision inserting the drawing numbers.  Is it ready to go to GE?Scott, payment for change orders is addressed in the contract.  ",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.1,
+        "Friendly Words %": 0.08888888888888889,
+        "Sentiment": 0.2851851851851852,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.13266998341625208
+    }
+],
+"thread2230": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Tue, 20 Jun 2000 07:02:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "ben",
+        "Subject": "LM 6000 GSU's",
+        "Text": "FYI.  When do you think you'll be done?Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 06/20/2000 02:00 PM ---------------------------   \t\t\tMann/Corp/Enron@Enron, Janet R Dietrich/HOU/ECT@ECT, frank.chmiel@us.abb.com@ENRON, karla.hesketh@us.abb.com@ENRON Mike:Yes, please proceed with the orders referenced below. Please make sure Harry is on board with all the details regarding the spec sheets which I understand are still being worked out. Thanks for all your help.Regards,Benmichael.o.sandridge@us.abb.com on 06/20/2000 11:15:15 AMBen,I would like to confirm our conversation of this morning.  The requirments areas follows:two (2) 138 KV units City of Austin shown on data sheet dated April 6 2000HU-Enron - 2Ctwo (2) 138 KV units Las Vegas shown on dats sheet dated May 17 2000 HU - Enron2Dsix (6) 115/230 flexible units as shown on data sheet dated May 17 2000 HU-Enron -1CThe factrory ex-work dates are as agreed in the option extension agreement dated19 June 2000.Please let us know via return e-mail that our understanding is correct.  We arepresently changing the units 03 and 04 (same as City of Austin) that had beenpreviously released to agree with the requirments above.I will be out of town for the rest of the week, however, I will have my computerand my cell phone with me.  If you need me please contact me via e-mail or cellphone.Thanks,MIKE",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.10849056603773585,
+        "Friendly Words %": 0.05188679245283019,
+        "Sentiment": 0.35,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.08683068017366136
+    },
+    {
+        "Timestamp": "Wed, 21 Jun 2000 03:50:00 -0700 (PDT)",
+        "Sender": "Kay Mann@ENRON on 06/20/2000 02:02 PM",
+        "Recipient": "ben",
+        "Subject": "LM 6000 GSU's",
+        "Text": "Hi Kathy,Please let me know if you get to the point where the exhibits are all that need work.  If you are there now, please send me the current version electronically.Thanks,KayKay:FYI - in case Ben wants to know.Kathy---------------------- Forwarded by Kathleen Clark/ENRON_DEVELOPMENT on 06/21/2000 10:28 AM ---------------------------Harry Okabayashi06/21/2000 10:03 AMBob,Please follow up with Frank Chmiel at ABB St. Louis on getting the our purchaser data sheets marked up so that we can finish the LM6000 GSU transformer P.O.TksHarry Okabayashi---------------------- Forwarded by Harry Okabayashi/ENRON_DEVELOPMENT on 06/21/2000 10:06 AM ---------------------------   \tEnron Engineering & Construction Company\t---------------------- Forwarded by Kathleen Clark/ENRON_DEVELOPMENT on 06/21/2000 07:49 AM ---------------------------   \tEnron Engineering & Construction Company\tHarry:What is the status?Thanks.Kathy---------------------- Forwarded by Kathleen Clark/ENRON_DEVELOPMENT on 06/21/2000 07:48 AM ---------------------------FYI.  When do you think you'll be done?Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 06/20/2000 02:00 PM ---------------------------   \t\t\tMann/Corp/Enron@Enron, Janet R Dietrich/HOU/ECT@ECT, frank.chmiel@us.abb.com@ENRON, karla.hesketh@us.abb.com@ENRON Mike:Yes, please proceed with the orders referenced below. Please make sure Harry is on board with all the details regarding the spec sheets which I understand are still being worked out. Thanks for all your help.Regards,Benmichael.o.sandridge@us.abb.com on 06/20/2000 11:15:15 AMBen,I would like to confirm our conversation of this morning.  The requirments areas follows:two (2) 138 KV units City of Austin shown on data sheet dated April 6 2000HU-Enron - 2Ctwo (2) 138 KV units Las Vegas shown on dats sheet dated May 17 2000 HU - Enron2Dsix (6) 115/230 flexible units as shown on data sheet dated May 17 2000 HU-Enron -1CThe factrory ex-work dates are as agreed in the option extension agreement dated19 June 2000.Please let us know via return e-mail that our understanding is correct.  We arepresently changing the units 03 and 04 (same as City of Austin) that had beenpreviously released to agree with the requirments above.I will be out of town for the rest of the week, however, I will have my computerand my cell phone with me.  If you need me please contact me via e-mail or cellphone.Thanks,MIKE",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.11641791044776119,
+        "Friendly Words %": 0.05373134328358209,
+        "Sentiment": 0.26666666666666666,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.14710743801652892
+    }
+],
+"thread2231": [
+    {
+        "conflict": "no",
+        "professional": "no",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 05:05:00 -0700 (PDT)",
+        "Sender": "Suzanne Adams@ECT on 10/03/2000 12:01 PM",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "Need Advice",
+        "Text": "I would think cocktail attire.  What time are the receptions?This seminar that Ric is going to in Las Vegas is having cocktail receptions each evening and special shows by Dana Carvey and Penn and Teller.  There's no dress specified, so I'm assuming something nice but not overdone.  What would you think?  ",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.14285714285714285,
+        "Friendly Words %": 0.07142857142857142,
+        "Sentiment": 0.47857142857142854,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.026058631921824105
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 05:18:00 -0700 (PDT)",
+        "Sender": "Suzanne Adams@ECT on 10/03/2000 12:01 PM",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "Need Advice",
+        "Text": "Tough time of day to dress for, but I think  you have it figured out.6:00 p.m.-7pm with dinner at 7pm.\tKay Mann@ENRON\t10/03/2000 12:05 PM\t\tI would think cocktail attire.  What time are the receptions?This seminar that Ric is going to in Las Vegas is having cocktail receptions each evening and special shows by Dana Carvey and Penn and Teller.  There's no dress specified, so I'm assuming something nice but not overdone.  What would you think?  ",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.1518987341772152,
+        "Friendly Words %": 0.10126582278481013,
+        "Sentiment": 0.1894179894179894,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.042600896860986545
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 05:35:00 -0700 (PDT)",
+        "Sender": "Suzanne Adams@ECT on 10/03/2000 12:01 PM",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "Need Advice",
+        "Text": "I don't have a lot of formal stuff that fits me now - I've gained weight in the past 18 months.  I may do a little shopping.The last conference Ric went to in Vegas he didn't really bring dress clothes.  We'll see.  They would have said black tie if it was a formal affair (like your trip with Neil).  What are you going to wear?  Do you have lots of formal attire?  \tKay Mann@ENRON\t10/03/2000 12:18 PM\t\tTough time of day to dress for, but I think  you have it figured out.6:00 p.m.-7pm with dinner at 7pm.\tKay Mann@ENRON\t10/03/2000 12:05 PM\t\tI would think cocktail attire.  What time are the receptions?This seminar that Ric is going to in Las Vegas is having cocktail receptions each evening and special shows by Dana Carvey and Penn and Teller.  There's no dress specified, so I'm assuming something nice but not overdone.  What would you think?  ",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.15,
+        "Friendly Words %": 0.13125,
+        "Sentiment": 0.0259589947089947,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04352941176470588
+    }
+],
+"thread2232": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Wed, 4 Oct 2000 05:50:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "kent",
+        "Subject": "LM 6000 change order #2",
+        "Text": "Kent,Here's a revised change order #2.  Please let me know if you have any comments:Thanks,Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.375,
+        "Friendly Words %": 0.1875,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06382978723404255
+    },
+    {
+        "Timestamp": "Wed, 4 Oct 2000 10:35:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "kent",
+        "Subject": "LM 6000 change order #2",
+        "Text": "---------------------- Forwarded by Kay Mann/Corp/Enron on 10/04/2000 05:35 PM ---------------------------   \tEnron North America Corp.\t\tKent,Here's a revised change order #2.  Please let me know if you have any comments:Thanks,Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.3225806451612903,
+        "Friendly Words %": 0.0967741935483871,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.26406926406926406
+    }
+],
+"thread2233": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Wed, 4 Oct 2000 06:20:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "  Peter Nassab/Corp/Enron@Enron, Larry Bishop/NA/Enron@Enron, John G      Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Roberto",
+        "Subject": " Form Contract, Rev Minus 1",
+        "Text": "Here is the current rev of the EECC \"standard\" form which I am reviewing/massaging in connection with the 97 10 exercise.  It includes the exhibits, where I think you can find something useful.If this doesn't help, please let me know and I will check elsewhere.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 10/04/2000 01:19 PM ---------------------------John.Schwartzenburg@enron.com on 09/21/2000 06:29:19 PMKay, here's the near to last draft of the  form. Sorry of the delay andthanks for being a sport about it, especially when your dvelope rtypes areneedig to get on down the road.. Please feel free to work on this, butplease  don't distribute this as our form, as you can see from the notebelow that we still have a way to go before it is  the \"form',but remainingwork is limited to speific content here and there, typos ,and somelitigation sturff. The structure will remain, so you can safely work intothis the West LB stuff.John R. asked that  you and he have a chat about the directionyou areheadedand hwo to coordinate the changes that need to be made - in terms ofsubstance as awell as drafting - to get to an standard set of changes forthe off balance sheet work. I would be glad to participate.---------------------- Forwarded by John Schwartzenburg/ENRON_DEVELOPMENTon 09/21/2000 06:23 PM ---------------------------John Schwartzenburg09/21/2000 01:57 PM      Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Roberto      Sevitz/NA/Enron@Enron, David K      Bargainer/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Scott      Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Angie      Chappell/ENRON_DEVELOPMENT@ENRON_DEVELOPMENTcc:Here's the next to last iteration of the form contract before we christenit officially \"FORM 2000 - Rev. 00\",clean and compared. John R will need totake this, diddle with it,  and use the product PDQ for a couple of crisisapplications, but before it becomed and gets advertized as \"Form 2000\" Iwoanted to collect  last comments from you guys and get some fine tuningfrom  our litigation mangers  onthe arbitration and dispute resolutonmaterials, which is to be on my desk by the end of the day.Because of Johnnie's urgencies, I did not have the chance to pretty upformat and section and page numbers, please forgive. We will get it nexttime.You guys also have the un-revised draft exhibits. I think Rigby was torevise to try and revise them to fit  the form - I await the draft exhibitswithbaited breath.Please collect your thoughts and we we schedule a time to get tehm in.Angie, please print both attachemenst and this e-mail for me. - ENRON EPC-0921-rev0-1.doc",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.15311004784688995,
+        "Friendly Words %": 0.10047846889952153,
+        "Sentiment": 0.17516534391534394,
+        "Subject Sentiment": -0.1,
+        "Punctuation %": 0.07883658629927287
+    },
+    {
+        "Timestamp": "Fri, 13 Oct 2000 05:02:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "  Peter Nassab/Corp/Enron@Enron, Larry Bishop/NA/Enron@Enron, John G      Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Roberto",
+        "Subject": " Form Contract, Rev Minus 1",
+        "Text": "Per your request.Is the contract supposed to be an off balance sheet contract?  I'm supposed to be working on the changes necessary to make this one 97-10 compliant, but I haven't done it yet.  Maybe you will beat me to it, which is fine by me.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 10/13/2000 12:00 PM ---------------------------John.Schwartzenburg@enron.com on 10/09/2000 05:41:13 PMForm contract plus exhibits, per request---------------------- Forwarded by John Schwartzenburg/ENRON_DEVELOPMENTon 10/09/2000 05:40 PM ---------------------------John Schwartzenburg09/21/2000 01:57 PM      Rigby/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Roberto      Sevitz/NA/Enron@Enron, David K      Bargainer/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Scott      Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Angie      Chappell/ENRON_DEVELOPMENT@ENRON_DEVELOPMENTcc:Here's the next to last iteration of the form contract before we christenit officially \"FORM 2000 - Rev. 00\",clean and compared. John R will need totake this, diddle with it,  and use the product PDQ for a couple of crisisapplications, but before it becomed and gets advertized as \"Form 2000\" Iwoanted to collect  last comments from you guys and get some fine tuningfrom  our litigation mangers  onthe arbitration and dispute resolutonmaterials, which is to be on my desk by the end of the day.Because of Johnnie's urgencies, I did not have the chance to pretty upformat and section and page numbers, please forgive. We will get it nexttime.You guys also have the un-revised draft exhibits. I think Rigby was torevise to try and revise them to fit  the form - I await the draft exhibitswithbaited breath.Please collect your thoughts and we we schedule a time to get tehm in.Angie, please print both attachemenst and this e-mail for me. - ENRON EPC-0921-rev0-1.doc - ENRON EPC - 0921 REV0-1 CMP.DOC",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.176056338028169,
+        "Friendly Words %": 0.07746478873239436,
+        "Sentiment": 0.28194444444444444,
+        "Subject Sentiment": -0.1,
+        "Punctuation %": 0.10080428954423593
+    }
+],
+"thread2234": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Wed, 4 Oct 2000 07:57:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"'kay",
+        "Subject": "Livingston County Approval Issues - ISSUES FOR TODAY",
+        "Text": "Mark,I've reviewed the fax sent yesterday with the Proposed Conditions to Special Use for Livingston Energy Center.  Is Titan Land Development the Owner?  Will it be necessary for Titan to make the escrow payment prior to exercising the relevant land options and the commencement of construction?I do not know whether these agreements and/or the making of the deposit would impact the balance sheet treatment, but I understand from Fred that we are not concerned about the balance sheet treatment for this project.Kay\"Gershon, Mark A. - CHI\" <Mark.Gershon@piperrudnick.com> on 10/04/2000 12:29:24 PM<rusty.stevens@enron.com>, \"'fred.mitro@enron.com'\" <fred.mitro@enron.com>Karen S. - CHI\" <karen.way@piperrudnick.com> As you know we are scheduled to appear before the Livingston County ZoningBoard of Appeals (\"ZBA\") tomorrow evening for initial approval of theLivingston Energy Center (the \"Facility\").  Assuming, we receive a vote toapprove the Facility, the ZBA will be approving the Conditions of Approvalof the Special Use sent out yesterday for everyone's final approval andsign-off.   Please note that we have incorporated into these conditions thestormwater management conditions, township and county highway roadwayconditions, and other matters. If there are any changes or modifications tothese conditions, our ability to incorporate may be limited if they are notreceived by 4pm today.  Of course, if necessary, we will attempt to makemodifications after that time.  It is possible based on on-going negotiations with the County and ourneighbors that additional changes may be required today or tomorrow.  Wewill of course contact you immediately if that occurs.  If you have anyquestions, please do not hesitate to call or email Karen or me.  Thanks.Mark A. GershonPiper Marbury Rudnick & WolfeMark.Gershon@PiperRudnick.com____________________________________________________________________________The information contained in this communication may be confidential, is intended only for the use of the recipient named above, and may be legally privileged.  If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this communication, or any of its contents, is strictly prohibited. If you have received this communication in error, please re-send this communication to the sender and delete the original message and any copy of it from your computer system.Thank you.For more information about Piper Marbury Rudnick & Wolfe, please visit us at http://www.piperrudnick.com/____________________________________________________________________________",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.0948509485094851,
+        "Friendly Words %": 0.08672086720867209,
+        "Sentiment": 0.08727678571428571,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.09613928841786526
+    },
+    {
+        "Timestamp": "Wed, 4 Oct 2000 10:37:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"'Rusty",
+        "Subject": "Livingston County Approval Issues - ISSUES FOR TODAY",
+        "Text": "---------------------- Forwarded by Kay Mann/Corp/Enron on 10/04/2000 05:37 PM ---------------------------\"Gershon, Mark A. - CHI\" <Mark.Gershon@piperrudnick.com> on 10/04/2000 05:13:00 PM- CHI\" <Mark.Gershon@piperrudnick.com><fred.mitro@enron.com>, \"Way, Karen S. - CHI\" <karen.way@piperrudnick.com> Thank you for the heads up on the Schaeffer parcel.  Just a reminder that ifwe want to use that site for a laydown parcel it may be necessary to obtainapproval from the County to do so.  After Thursday night we can discuss theproper method of confirming this with the County.  Please keep in mind thatwhile a we hope to obtain approval of a motion on Thursday night, formalapproval will not occur until next month's ZBA hearing when written findingswill be adopted. Mark A. GershonPiper Marbury Rudnick & WolfeMark.Gershon@PiperRudnick.com   -----Original Message-----'fred.mitro@enron.com'; Way, Karen S. - CHITODAY   Mark,  FYI  -  I plan to approach Mr. Schaeffer (the 28 acre tractto the   immediate west of the site) to option that tract as well once we getdone   with the ZBA on Thursday (assuming it goes off without a hitch).   We want to option that tract so it could be used as constructionlaydown,   and more importantly to control the parcel across from the plantsite.  The   plan would be to buy the tract, but let him have rights to farmingit -   once we're done using it for laydown.  This gives us a buffer tractfor   sound mitigation etc. as well.   \"Gershon, Mark A. - CHI\" <Mark.Gershon@piperrudnick.com> on10/04/2000   04:09:26 PM         \"'fred.mitro@enron.com'\" <fred.mitro@enron.com>, \"Way, KarenS. -         CHI\" <karen.way@piperrudnick.com>   Titan Land Development Co., L.L.C.  holds the options on the  3properties   in Livingston County. If  you were to acquire those properties anddevelop   the Facility it is my understanding that Titan would be the entitythat   would be the owner of the Property and the Facility.  The proposed   Conditions were drafted to apply to the party defined as the \"Owner\"and   not   specifically to Titan or ENA.  Proposed Condition No. 12 providesthat:             The Special Use approved by this ordinance and all of the   conditions, obligations and rights provided for herein shall runwith the   ownership of the land and the Facility.  For purposes of thisSpecial Use,   \"Owner\" shall include the owner of the Property and the owner and/or   operator of the Facility.   Therefore, the conditions of the Special Use, including theobligation to   make the Escrow payment, should not apply to Titan until acquisitionof the   Property or development of the Facility.  In the unlikely scenariothat   Titan was to acquire the Property but not develop it, failure tosatisfy   the   Conditions should only relate to the right to use the Property forthe   Facility.  I am working with the County to get a copy of the final   ordinance   or resolution (they have not completed it yet) to confirm that it is   consistent with this proposal.   Please let me know if I should pursue the balance sheet treatmentwith your   tax department.  If you have any questions or I can be of anyfurther   assistance please let me know.   Mark A. Gershon   Piper Marbury Rudnick & Wolfe   Mark.Gershon@PiperRudnick.com        -----Original Message-----   TODAY        Mark,        I've reviewed the fax sent yesterday with the ProposedConditions to        Special Use for Livingston Energy Center.  Is Titan LandDevelopment   the        Owner?  Will it be necessary for Titan to make the escrowpayment   prior to        exercising the relevant land options and the commencement of   construction?        I do not know whether these agreements and/or the making of the   deposit        would impact the balance sheet treatment, but I understand fromFred   that        we are not concerned about the balance sheet treatment for this   project.        Kay        \"Gershon, Mark A. - CHI\" <Mark.Gershon@piperrudnick.com> on   10/04/2000        12:29:24 PM              \"'rusty.stevens@enron.com'\" <rusty.stevens@enron.com>,              \"'fred.mitro@enron.com'\" <fred.mitro@enron.com>   <chris.townsend@piperrudnick.com>,              \"Way, Karen S. - CHI\" <karen.way@piperrudnick.com>        As you know we are scheduled to appear before the LivingstonCounty   Zoning        Board of Appeals (\"ZBA\") tomorrow evening for initial approvalof   the        Livingston Energy Center (the \"Facility\").  Assuming, wereceive a   vote to        approve the Facility, the ZBA will be approving the Conditionsof   Approval        of the Special Use sent out yesterday for everyone's finalapproval   and        sign-off.   Please note that we have incorporated into these   conditions the        stormwater management conditions, township and county highway   roadway        conditions, and other matters. If there are any changes or   modifications to        these conditions, our ability to incorporate may be limited ifthey   are not        received by 4pm today.  Of course, if necessary, we willattempt to   make        modifications after that time.        It is possible based on on-going negotiations with the Countyand   our        neighbors that additional changes may be required today ortomorrow.   We        will of course contact you immediately if that occurs.  If youhave   any        questions, please do not hesitate to call or email Karen or me.   Thanks.        Mark A. Gershon        Piper Marbury Rudnick & Wolfe        Mark.Gershon@PiperRudnick.com   ____________________________________________________________________________        The information contained in this communication may beconfidential,   is        intended only for the use of the recipient named above, and maybe   legally        privileged.  If the reader of this message is not the intended   recipient,        you are hereby notified that any dissemination, distribution,or   copying of        this communication, or any of its contents, is strictlyprohibited.   If you        have received this communication in error, please re-send this        communication to the sender and delete the original message andany   copy of        it from your computer system.        Thank you.        For more information about Piper Marbury Rudnick & Wolfe,please   visit us        at http://www.piperrudnick.com/   ____________________________________________________________________________   ____________________________________________________________________________   The information contained in this communication may be confidential,is   intended only for the use of the recipient named above, and may belegally   privileged.  If the reader of this message is not the intendedrecipient,   you are hereby notified that any dissemination, distribution, orcopying of   this communication, or any of its contents, is strictly prohibited.If you   have received this communication in error, please re-send this   communication to the sender and delete the original message and anycopy of   it from your computer system.   Thank you.   For more information about Piper Marbury Rudnick & Wolfe, pleasevisit us   at http://www.piperrudnick.com/   ____________________________________________________________________________   ____________________________________________________________________________The information contained in this communication may be confidential, is intended only for the use of the recipient named above, and may be legally privileged.  If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this communication, or any of its contents, is strictly prohibited. If you have received this communication in error, please re-send this communication to the sender and delete the original message and any copy of it from your computer system.Thank you.For more information about Piper Marbury Rudnick & Wolfe, please visit us at http://www.piperrudnick.com/____________________________________________________________________________",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.3825,
+        "Friendly Words %": 0.06375,
+        "Sentiment": 0.20910714285714285,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.10375715352077632
+    }
+], "thread2235": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Fri, 2 Jun 2000 10:43:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "kathleen",
+        "Subject": "Dual Fuel Option Availability for Enron",
+        "Text": "FYI.  I'll send a copy of the executed original change order once I get it.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 06/02/2000 05:43 PM ---------------------------david.davis@ss.ps.ge.com on 06/02/2000 05:27:37 PMBen.F.Jacoby@enron.com, lee.johnson@ss.ps.ge.com, james.bonnett@ss.ps.ge.com, pault.armstrong@ss.ps.ge.com  - Enron004.pdf",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.11428571428571428,
+        "Friendly Words %": 0.02857142857142857,
+        "Sentiment": 0.375,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.25280898876404495
+    },
+    {
+        "Timestamp": "Fri, 2 Jun 2000 09:17:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Ben",
+        "Subject": "Dual Fuel Option Availability for Enron",
+        "Text": "fyi.  I faxed it to David, originals being sent to you.---------------------- Forwarded by Kay Mann/Corp/Enron on 06/02/2000 04:17 PM ---------------------------   \t\t\tMann/Corp/Enron@Enron, Brian Hulse/Corp/Enron@ENRON David:We have executed the change order and Kay Mann is faxing it to you. I trust you will find it in order, and would appreciate a confirmation at your earliest convenience. Kay's extension is 713-345-7566. Thanks much.Ben Jacobydavid.davis@ss.ps.ge.com on 05/31/2000 07:53:28 PMBen,Thanks for replying so fast.  My numbers are:office 281-457-8444fax 281-452-1585cell 713-806-3908I look forward to hearing from you.  Regards, David Davis",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.0898876404494382,
+        "Friendly Words %": 0.1797752808988764,
+        "Sentiment": 0.2,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.1415525114155251
+    },
+    {
+        "Timestamp": "Mon, 5 Jun 2000 01:54:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "kathleen",
+        "Subject": "Dual Fuel Option Availability for Enron",
+        "Text": "fyi---------------------- Forwarded by Kay Mann/Corp/Enron on 06/05/2000 08:54 AM ---------------------------david.davis@ss.ps.ge.com on 06/02/2000 05:27:37 PMBen.F.Jacoby@enron.com, lee.johnson@ss.ps.ge.com, james.bonnett@ss.ps.ge.com, pault.armstrong@ss.ps.ge.com  - Enron004.pdf",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.1,
+        "Friendly Words %": 0.0,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.3096085409252669
+    }
+],
+"thread2239": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Thu, 9 Nov 2000 06:33:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/09/2000 12:02 PM",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "Opportunities at ENA",
+        "Text": "Jeff,I don't know if our group needs anyone, but I wanted to pass this resume along.  I worked with Carlos when I was at EECC, and I rate him highly.  He'll take on anything, has good people skills, works hard, and has a varied transactional background.  As an added bonus, he is fluent in Spanish.EECC is being plopped into EES, and Carlos would prefer to make the move to ENA (or EA, whatever we are called). He discussed this with Vicky, so she is aware that he is checking out opportunities here.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/09/2000 02:24 PM ---------------------------Kay, as we've discussed before, I'm interested in pursuing the opportunities available in the ENA legal group.  As you know, my experience at EECC in addition to focusing on traditional EPC contracts and joint venture agreements, has also included cross-border financing agreements and merger and acquisition activity.  Before coming to Enron as you recall, I worked with a New york based firm here in Houston where I focused mostly on transactions in Mexico since we represented Pemex on their transactions involving long and short term oil supply agreements and CFE (Mexico's electricity commission) on its public bids for EPC and IPP projects.  Lastly, I started my legal career in 1994 at Patton Boggs in DC where I focused on general domestic corporate transactions such as establishing new business entities (ie, joint venture work, partnerships etc.), m & a work, and securities offerings.  Thanks for your help.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.05928853754940711,
+        "Friendly Words %": 0.07114624505928854,
+        "Sentiment": 0.15979256854256854,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06514657980456026
+    },
+    {
+        "Timestamp": "Mon, 20 Nov 2000 02:27:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/09/2000 12:02 PM",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "Opportunities at ENA",
+        "Text": "I wanted to pass along the resume of Carlos Sole. Carlos and I worked together extensively at EECC.  The \"reorganization\" of EECC has him moving to EES, but he would prefer to work here.  He recently met with V. Sharp, and she understands that he wants to explore opportunities at EWS (I'm learning the new nomenclature).  John Schwartzenburg understands this as well.I can recommend Carlos as a solid, intelligent, hard working lawyer. He's a great guy and I believe he would fit in well here.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/20/2000 10:17 AM ---------------------------Kay, as we've discussed before, I'm interested in pursuing the opportunities available in the ENA legal group.  As you know, my experience at EECC in addition to focusing on traditional EPC contracts and joint venture agreements, has also included cross-border financing agreements and merger and acquisition activity.  Before coming to Enron as you recall, I worked with a New york based firm here in Houston where I focused mostly on transactions in Mexico since we represented Pemex on their transactions involving long and short term oil supply agreements and CFE (Mexico's electricity commission) on its public bids for EPC and IPP projects.  Lastly, I started my legal career in 1994 at Patton Boggs in DC where I focused on general domestic corporate transactions such as establishing new business entities (ie, joint venture work, partnerships etc.), m & a work, and securities offerings.  Thanks for your help.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.056910569105691054,
+        "Friendly Words %": 0.08130081300813008,
+        "Sentiment": 0.15864568302068302,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06409417920209287
+    },
+    {
+        "Timestamp": "Mon, 20 Nov 2000 02:30:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/09/2000 12:02 PM",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "Opportunities at ENA",
+        "Text": "Hi,Got your voice mail, and it reminded me to sent this out.  I don't know what is up with Jeff, so why wait to send this?Next comes Finance/M&A (Lance and Travis).I'm having lunch with Dan today - want to join us?  We are going to Fox Diner.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/20/2000 10:28 AM ---------------------------Kay Mann11/20/2000 10:27 AMI wanted to pass along the resume of Carlos Sole. Carlos and I worked together extensively at EECC.  The \"reorganization\" of EECC has him moving to EES, but he would prefer to work here.  He recently met with V. Sharp, and she understands that he wants to explore opportunities at EWS (I'm learning the new nomenclature).  John Schwartzenburg understands this as well.I can recommend Carlos as a solid, intelligent, hard working lawyer. He's a great guy and I believe he would fit in well here.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/20/2000 10:17 AM ---------------------------Kay, as we've discussed before, I'm interested in pursuing the opportunities available in the ENA legal group.  As you know, my experience at EECC in addition to focusing on traditional EPC contracts and joint venture agreements, has also included cross-border financing agreements and merger and acquisition activity.  Before coming to Enron as you recall, I worked with a New york based firm here in Houston where I focused mostly on transactions in Mexico since we represented Pemex on their transactions involving long and short term oil supply agreements and CFE (Mexico's electricity commission) on its public bids for EPC and IPP projects.  Lastly, I started my legal career in 1994 at Patton Boggs in DC where I focused on general domestic corporate transactions such as establishing new business entities (ie, joint venture work, partnerships etc.), m & a work, and securities offerings.  Thanks for your help.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.06535947712418301,
+        "Friendly Words %": 0.08169934640522876,
+        "Sentiment": 0.15864568302068302,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.08914525432616675
+    },
+    {
+        "Timestamp": "Fri, 1 Dec 2000 01:41:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Michelle",
+        "Subject": "Opportunities at ENA",
+        "Text": "Michelle,Carlos would be a great addition at ENA in any transactional capacity.  I worked with him extensively (actually, I hired him), and he is terrific.  Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 12/01/2000 09:37 AM ---------------------------Carlos.Sole@enron.com on 12/01/2000 09:36:10 AMMichelle, per my voicemail as I indicated, I am trying to pursue whatopportunities may be available at EWS and both Julia Murray and Kay Mannrecommended that I contact you.  As background, I have been at EECC sinceOctober last year where I have focused on traditional EPC contracts andjoint venture agreements with construction partners, cross-border financingagreements principally in Mexico and merger and acquisition/strategicinvestment transactions.  Before coming to Enron, I worked with the Houstonoffice of a New York based firm (Curtis, Mallet-Prevost, Colt & Mosle)where I focused mostly on transactions in Mexico since we represented Pemexon their transactions involving long and short term oil supply agreementsand CFE (Mexico's electricity commission) on its public bids for EPC andIPP projects.  Lastly, I started my legal career in 1994 at Patton Boggs inWashington, DC where I focused on general domestic corporate transactionssuch as establishing new business entities (ie, joint venture work,partnerships etc.), m & a work, and securities offerings.  Thanks for yourconsideration and I look forward to talking with you when you return fromvacation (my extension is 6-6127). - EECC Resume.doc",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.05454545454545454,
+        "Friendly Words %": 0.07272727272727272,
+        "Sentiment": 0.3057575757575758,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06871727748691099
+    },
+    {
+        "Timestamp": "Fri, 1 Dec 2000 05:24:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "carlos",
+        "Subject": "Opportunities at ENA",
+        "Text": "I think that him leaving word for Michele might be more palatable.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.0,
+        "Friendly Words %": 0.08333333333333333,
+        "Sentiment": 0.5,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.015151515151515152
+    }
+],
+"thread2240": [
+    {
+        "conflict": "no",
+        "professional": "no",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 01:13:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/09/2000 03:25 PM",
+        "Recipient": "Kay Mann/Corp/Enron@ENRON",
+        "Subject": "Opportunities at ENA  ",
+        "Text": "I thrive on pressure.  My birthday is January 11th.  Is that close to her due date?KayThanks.  Depending on your success as a headhunter for me, I will propose to Kendall that if our expectant child is a girl then she should be named Cynthia or Kay.",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.10204081632653061,
+        "Friendly Words %": 0.12244897959183673,
+        "Sentiment": 0.0875,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.024096385542168676
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 01:21:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/09/2000 03:25 PM",
+        "Recipient": "Kay Mann/Corp/Enron@ENRON",
+        "Subject": "Opportunities at ENA  ",
+        "Text": "Oh well.Jeff is in London, but will be here on Monday.  Kaylate March\tKay Mann@ENRON\t11/10/2000 09:13 AM\t\tI thrive on pressure.  My birthday is January 11th.  Is that close to her due date?KayThanks.  Depending on your success as a headhunter for me, I will propose to Kendall that if our expectant child is a girl then she should be named Cynthia or Kay.",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.1076923076923077,
+        "Friendly Words %": 0.1076923076923077,
+        "Sentiment": 0.0875,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.036619718309859155
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 01:29:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/10/2000 09:25 AM",
+        "Recipient": "Kay Mann/Corp/Enron@ENRON",
+        "Subject": "Opportunities at ENA  ",
+        "Text": "De nada.Thanks for your help.",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.2,
+        "Friendly Words %": 0.2,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06896551724137931
+    },
+    {
+        "Timestamp": "Mon, 20 Nov 2000 02:35:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/20/2000 10:34 AM",
+        "Recipient": "Kay Mann/Corp/Enron@ENRON",
+        "Subject": "Opportunities at ENA  ",
+        "Text": "I'm packing my office (yes, another move), so I'm generally avialable.  Do you want to come over here around 1130, and we'll load up Dan and go.  This will be a car trip, as FD is on Taft.Sounds goood.  What time (I'll get there early) and where do we met as I have no idea where the Fox Diner is?",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.09523809523809523,
+        "Friendly Words %": 0.09523809523809523,
+        "Sentiment": 0.07500000000000001,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.05723905723905724
+    },
+    {
+        "Timestamp": "Mon, 20 Nov 2000 02:53:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/20/2000 10:38 AM",
+        "Recipient": "Kay Mann/Corp/Enron@ENRON",
+        "Subject": "Opportunities at ENA  ",
+        "Text": "Dan just dumped me, so we can go any where you want.  Do you have a preference?Kaysee you then",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.15,
+        "Friendly Words %": 0.25,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.031914893617021274
+    },
+    {
+        "Timestamp": "Mon, 20 Nov 2000 03:00:00 -0800 (PST)",
+        "Sender": "Carlos Sole@ENRON_DEVELOPMENT on 11/20/2000 10:38 AM",
+        "Recipient": "Kay Mann/Corp/Enron@ENRON",
+        "Subject": "Opportunities at ENA  ",
+        "Text": "You'll like it.  Do you want to meet by the garage?KayFox Diner as it's peaked my curiosity.  Unless you suggest otherwise\tKay Mann@ENRON\t11/20/2000 10:53 AM\t\tDan just dumped me, so we can go any where you want.  Do you have a preference?Kaysee you then",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.1111111111111111,
+        "Friendly Words %": 0.2,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04743083003952569
+    }
+],
+"thread2241": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 01:20:00 -0800 (PST)",
+        "Sender": "Suzanne Adams@ECT on 11/09/2000 04:08 PMBills/Corp/Enron@ENRON, Roseann Engeldorf/Corp/Enron@ENRON, Scott ",
+        "Recipient": "Sheila Tweed/HOU/ECT@ECT, Ben Jacoby/HOU/ECT@ECT, Lisa Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Stephen",
+        "Subject": "GE CONFERENCE CALL FOR NOVEMBER 10, 2000",
+        "Text": "Hi Guys,We don't expect to deal with the facility agreement until around 130, so there isn't a need for Lee to listen to the rest unless he wants to.  Lee, you are more than welcome to come in person, in which case I can give you some exectued change orders.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/10/2000 09:14 AM ---------------------------Bills/Corp/Enron@ENRON, Roseann Engeldorf/Corp/Enron@ENRON, Scott Dieball/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Stephen.swift@ps.ge.com, Michael.barnas@ps.ge.com, Kent.shoemaker@ae.ge.com, kay.mann@enron.com, lee.johnson@ss.ps.ge.comThe conference call will be held at 1:00 p.m. CT tomorrow, November 10, 2000.  For the people in Houston, I have reserved EB38C1.  The dial-in information follows:If you have any questions, please give me a call at 713-853-7340.  Thanks, Suzanne",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.10810810810810811,
+        "Friendly Words %": 0.13513513513513514,
+        "Sentiment": 0.35000000000000003,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.13507109004739337
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 01:34:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay",
+        "Subject": "GE CONFERENCE CALL FOR NOVEMBER 10, 2000",
+        "Text": "I know the feeling.lee.johnson@ss.ps.ge.com on 11/10/2000 09:30:19 AMI think I will, so I can get out of here. ",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.10526315789473684,
+        "Friendly Words %": 0.0,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.10810810810810811
+    }
+],
+"thread2242": [
+    {
+        "conflict": "no",
+        "professional": "no",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Wed, 5 Jul 2000 11:14:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\tsheila.tweed@enron.com",
+        "Recipient": "Kay Mann/Corp/Enron@EnronLuce/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT ",
+        "Subject": "PERC Negotiations",
+        "Text": "Rusty,Let's meet at your convenience.  We need to identify some of the tripping points and critical path items, especially since our goal (I assume) will be to keep equipment, EPC contracts, land (?), etc off Enron's balance sheet while things are developing.  Talking through the process should help.KayRusty Stevens06/28/2000 10:51 AMLuce/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT Attached is a proposal that was shared with PERC last week.  We are now awaiting PERC's response.  I am assuming that they will agree to the terms since their alternative is to lose $ on the units at resale with no opportunity for recapture.  I wanted to give you a \"heads-up\" since the timing will be is tight once I get the green light to proceed with legal docs.  Please let me know what documents we will need and how you suggest we expedite the process (LOI or otherwise).Calumet Project Participation (with ABB's):ENA has verbally told them we will not participate in Calumet and the LLC term to get to execution has expired.Upon release by Laura/Ben - need to send them formal notice under the PDA that we are withdrawing our notice of interest to participate in Calumet.Going Forward:We need to put the general terms in the proposal into a formal document.  Letter of Intent authorizing us to take control of the development/site sales process at our expense - if they the deal unwinds we get reimbursed for our direct costs spent to further perfect/sell their sites.Assess PERC's legal position with ABB (was it fraud or gross negligence that ABB failed to mention this problem they've known about for 10 years?).Authorization/indemnification from PERC to negotiate with ABB to grant contract concessions that will benefit Enron Canada as subsequent owner.Enron Canada will likely be involved as lead negotiater with ABB - who in legal will work with ENA/Enron Canada on this ?Enron Canada - To meet their 2001 schedule we need to have legal authorization to engage ABB by early-July.\"Pitch Book\" - In its current form includes Calumet/Torrence we need authorization from PERC - Bruce is expecting to begin circulation by week of July 10th.EPC contractors -  They bid Calumet using ABB, and we want them to re-bid for LM 6000's.  Need authorization from PERC (July 14th or sooner) with cost coverage provisions, since the EPC contractors are likely to want to charge us $50-$100k to re-bid the deal. ",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.08478802992518704,
+        "Friendly Words %": 0.10723192019950124,
+        "Sentiment": 0.03883928571428572,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.035102381947346425
+    },
+    {
+        "Timestamp": "Thu, 6 Jul 2000 05:59:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com\tlaura.luce@enron.com, sheila.tweed@enron.com, ",
+        "Recipient": "Kay Mann/Corp/Enron@EnronLuce/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT ",
+        "Subject": "PERC Negotiations",
+        "Text": "No problem.   \t\t\tJacoby/HOU/ECT@ECT, Laura Luce/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT, Debbie Chance/Corp/Enron@Enron FYI, Debbie advised me that the Canadian group has asked that she interface on the turbine acquisition. Please make sure, as best you can, that the appropriate persons are involved in the negotiations with Peoples and ABB. I don't have a preference as to who is doing what, just want to make sure we're all coordinated.Thanks,Ben   \t\t\tLuce/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT Rusty,Let's meet at your convenience.  We need to identify some of the tripping points and critical path items, especially since our goal (I assume) will be to keep equipment, EPC contracts, land (?), etc off Enron's balance sheet while things are developing.  Talking through the process should help.KayRusty Stevens06/28/2000 10:51 AMLuce/Corp/Enron@Enron, Sheila Tweed/HOU/ECT@ECT Attached is a proposal that was shared with PERC last week.  We are now awaiting PERC's response.  I am assuming that they will agree to the terms since their alternative is to lose $ on the units at resale with no opportunity for recapture.  I wanted to give you a \"heads-up\" since the timing will be is tight once I get the green light to proceed with legal docs.  Please let me know what documents we will need and how you suggest we expedite the process (LOI or otherwise).Calumet Project Participation (with ABB's):ENA has verbally told them we will not participate in Calumet and the LLC term to get to execution has expired.Upon release by Laura/Ben - need to send them formal notice under the PDA that we are withdrawing our notice of interest to participate in Calumet.Going Forward:We need to put the general terms in the proposal into a formal document.  Letter of Intent authorizing us to take control of the development/site sales process at our expense - if they the deal unwinds we get reimbursed for our direct costs spent to further perfect/sell their sites.Assess PERC's legal position with ABB (was it fraud or gross negligence that ABB failed to mention this problem they've known about for 10 years?).Authorization/indemnification from PERC to negotiate with ABB to grant contract concessions that will benefit Enron Canada as subsequent owner.Enron Canada will likely be involved as lead negotiater with ABB - who in legal will work with ENA/Enron Canada on this ?Enron Canada - To meet their 2001 schedule we need to have legal authorization to engage ABB by early-July.\"Pitch Book\" - In its current form includes Calumet/Torrence we need authorization from PERC - Bruce is expecting to begin circulation by week of July 10th.EPC contractors -  They bid Calumet using ABB, and we want them to re-bid for LM 6000's.  Need authorization from PERC (July 14th or sooner) with cost coverage provisions, since the EPC contractors are likely to want to charge us $50-$100k to re-bid the deal. ",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.09725158562367865,
+        "Friendly Words %": 0.10570824524312897,
+        "Sentiment": 0.22033730158730158,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04035874439461883
+    }
+],
+"thread2243": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 01:55:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "SWPC Agreement",
+        "Text": "As usual, the lawyers are the last to know.Stuart is working on a transaction to sell the asset (Gleason), and therefore this ageement needs to be documented asap, which means in the next few days.  Please review the attached and give me a call.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/10/2000 09:52 AM ---------------------------   \tEnron North America Corp.\t\tKay -I've reached a verbal agreement with Westinghouse on the LD issues.  I've attached a letter outlining the agreement.  Could you review from a legal standpoint?  Call me with questions.Thanks,Mitch",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.11956521739130435,
+        "Friendly Words %": 0.13043478260869565,
+        "Sentiment": 0.043750000000000004,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.12141652613827993
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 01:56:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "SWPC Agreement",
+        "Text": "Thanks for the info.  I'll give it a look.Kay   \tEnron North America Corp.\t\tKay -I've reached a verbal agreement with Westinghouse on the LD issues.  I've attached a letter outlining the agreement.  Could you review from a legal standpoint?  Call me with questions.Thanks,Mitch",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.16666666666666666,
+        "Friendly Words %": 0.14583333333333334,
+        "Sentiment": 0.2,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.04332129963898917
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 02:00:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "SWPC Agreement",
+        "Text": "---------------------- Forwarded by Kay Mann/Corp/Enron on 11/10/2000 10:00 AM ---------------------------Kay Mann11/10/2000 09:55 AMAs usual, the lawyers are the last to know.Stuart is working on a transaction to sell the asset (Gleason), and therefore this ageement needs to be documented asap, which means in the next few days.  Please review the attached and give me a call.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/10/2000 09:52 AM ---------------------------   \tEnron North America Corp.\t\tKay -I've reached a verbal agreement with Westinghouse on the LD issues.  I've attached a letter outlining the agreement.  Could you review from a legal standpoint?  Call me with questions.Thanks,Mitch",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.11538461538461539,
+        "Friendly Words %": 0.11538461538461539,
+        "Sentiment": 0.043750000000000004,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.17768595041322313
+    }
+],
+"thread2244": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 02:00:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "jscheib@rc",
+        "Subject": "FuelCell / Enron",
+        "Text": "Jackie,Would it be possible for you to mark up the list of comments, highlighting which are outstanding?  Marked by hand and faxed would be great.Thanks,Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.038461538461538464,
+        "Friendly Words %": 0.19230769230769232,
+        "Sentiment": 0.175,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.03205128205128205
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 02:48:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"Jerry Leitman (E-mail)\" <jleitman@fce",
+        "Subject": "FuelCell / Enron",
+        "Text": "I wasn't sure from your email if you wanted to review it now, or wait until Jackie and I sort through some things.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/10/2000 10:47 AM ---------------------------\"Scheib, Jacqueline Pennino\" <jscheib@rc.com> on 11/10/2000 08:54:15 AM<rlevine@fce.com>, \"'kay.mann@enron.com'\" <kay.mann@enron.com>Our server is back up - sorry for the delay in your receipt of thesecomments which were initially sent out last night.  A message from oursystem administrator indicates that Kay already received the message belowbut Ross and Jerry did not.  Just to be safe I am resending to all of you.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.07526881720430108,
+        "Friendly Words %": 0.10752688172043011,
+        "Sentiment": 0.5,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.13862928348909656
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 09:38:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"'kay",
+        "Subject": "FuelCell / Enron",
+        "Text": "Heather, I think the clean one is ok to send to Bob Wright as is.  Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/13/2000 05:37 PM ---------------------------\"Scheib, Jacqueline Pennino\" <jscheib@rc.com> on 11/09/2000 09:13:40 PM<jleitman@fce.com>, \"Ross M. Levine (E-mail)\" <rlevine@fce.com>As discussed, attached is a clean and blacklined version of the FuelCell /Enron Agreement reflecting the parties' agreements over the past two days.The marked up comments list will follow shortly by PDF file.  Please notethat some of the members of my client's team will be seeing this at the sametime as you and therefore may have additional comments.   <<FuelCell Enron (CLEAN) Purchase Agreement.doc>>  <<FuelCell Enron (RED)Purchase Agreement.rtf>>--------------------------------------------------Jacqueline Pennino Scheib, Esq.Robinson & Cole LLP280 Trumbull StreetHartford, CT  06103(p) 860-275-8285(f) 860-275-8299jscheib@rc.com - FuelCell Enron (CLEAN) Purchase Agreement.doc - FuelCell Enron (RED) Purchase Agreement.rtf",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.08270676691729323,
+        "Friendly Words %": 0.045112781954887216,
+        "Sentiment": 0.2439814814814815,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.16826923076923078
+    }
+],
+"thread2245": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 03:21:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "michael",
+        "Subject": "Transformers for LM's",
+        "Text": "Hi Mike,Since we haven't had any luck hooking up on the telephone, I wanted to transmit to you an initial draft of a facility agreement, as contemplated by the contract for the transformer packages for the LM's.  I would have sent this to Dave, but I don't seem to have his email address.Since the WestLB financing facility is scheduled to expire soon, we need to get the transformers transferred into our new facility, as well as get them contractually allocated to various projects.  Please give me a call or have Dave call me so that we can handle this as expeditiously as possible.Thanks,Kay713 345 7566",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.12149532710280374,
+        "Friendly Words %": 0.14953271028037382,
+        "Sentiment": 0.06818181818181818,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.023064250411861616
+    },
+    {
+        "Timestamp": "Wed, 6 Dec 2000 09:22:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "michael",
+        "Subject": "Transformers for LM's",
+        "Text": "FYI.  ---------------------- Forwarded by Kay Mann/Corp/Enron on 12/06/2000 05:21 PM ---------------------------Kay Mann11/10/2000 11:21 AMHi Mike,Since we haven't had any luck hooking up on the telephone, I wanted to transmit to you an initial draft of a facility agreement, as contemplated by the contract for the transformer packages for the LM's.  I would have sent this to Dave, but I don't seem to have his email address.Since the WestLB financing facility is scheduled to expire soon, we need to get the transformers transferred into our new facility, as well as get them contractually allocated to various projects.  Please give me a call or have Dave call me so that we can handle this as expeditiously as possible.Thanks,Kay713 345 7566",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.12396694214876033,
+        "Friendly Words %": 0.1322314049586777,
+        "Sentiment": 0.06818181818181818,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.09651474530831099
+    }
+],
+"thread2246": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 04:13:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "kent",
+        "Subject": "Facility AGreement",
+        "Text": "I can assure you that no improvement in the relative risk allocation was intended.  They pointed out what appeared to be some disconnects, and in some cases I ok'd them putting the suggestions in for discussions purposes.  I wasn't trying to play games.Talk to you soon,Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.0625,
+        "Friendly Words %": 0.125,
+        "Sentiment": 0.5,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.02564102564102564
+    }
+],
+"thread2247": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 07:07:00 -0800 (PST)",
+        "Sender": "Mark Taylor@ECT on 11/10/2000 02:25 PMBruce/NA/Enron@Enron, Stacy E Dickson/HOU/ECT@ECT, Jeffrey T ",
+        "Recipient": "Roger Balog/HOU/ECT@ECT, Peggy Banczak/HOU/ECT@ECT, Robert Hodge/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, Janice R Moore/HOU/ECT@ECT, ",
+        "Subject": "Construction Schedule - Office Moves",
+        "Text": "Hi Mark,I thought I was in my \"final\" office.  Where am I moving?KayBruce/NA/Enron@Enron, Stacy E Dickson/HOU/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, Janice R Moore/HOU/ECT@ECT, Steve Van Hooser/HOU/ECT@ECTWhitehead/HOU/ECT@ECT, Linda J Noske/HOU/ECT@ECT, Sheri L Cromwell/HOU/ECT@ECT, Becky Spencer/HOU/ECT@ECT, Jenny Helton/HOU/ECT@ect, Suzanne Adams/HOU/ECT@ECT, Pat Radford/HOU/ECT@ECT, Janette Elbertson/HOU/ECT@ECT, Joya Davis/HOU/ECT@ECT Just a quick note to give you as much warning as possible.  The current phase of the office construction process is almost finished.  We have been given a completion date when (we hope) your new office will be ready of Monday, November 20.  Your assistants can help you order boxes and arrange your move.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.05825242718446602,
+        "Friendly Words %": 0.08737864077669903,
+        "Sentiment": 0.17297979797979798,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.09043927648578812
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 08:21:00 -0800 (PST)",
+        "Sender": "Mark Taylor@ECT on 11/10/2000 02:25 PMBruce/NA/Enron@Enron, Stacy E Dickson/HOU/ECT@ECT, Jeffrey T ",
+        "Recipient": "Roger Balog/HOU/ECT@ECT, Peggy Banczak/HOU/ECT@ECT, Robert Hodge/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, Janice R Moore/HOU/ECT@ECT, ",
+        "Subject": "Construction Schedule - Office Moves",
+        "Text": "FYI,  I expect to be on vacation that week.KayI think your \"final\" office changed when your group changed - the East Origination/Gas Trading Group is in the southeast quadrant of the floor and they have given you 3882, just  four doors down the hall from where I am now.  The construction workers are gone for the day if you want to stop by and see it.\tKay Mann@ENRON\t11/10/2000 03:07 PM\t\tHi Mark,I thought I was in my \"final\" office.  Where am I moving?KayBruce/NA/Enron@Enron, Stacy E Dickson/HOU/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, Janice R Moore/HOU/ECT@ECT, Steve Van Hooser/HOU/ECT@ECTWhitehead/HOU/ECT@ECT, Linda J Noske/HOU/ECT@ECT, Sheri L Cromwell/HOU/ECT@ECT, Becky Spencer/HOU/ECT@ECT, Jenny Helton/HOU/ECT@ect, Suzanne Adams/HOU/ECT@ECT, Pat Radford/HOU/ECT@ECT, Janette Elbertson/HOU/ECT@ECT, Joya Davis/HOU/ECT@ECT Just a quick note to give you as much warning as possible.  The current phase of the office construction process is almost finished.  We have been given a completion date when (we hope) your new office will be ready of Monday, November 20.  Your assistants can help you order boxes and arrange your move.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.07471264367816093,
+        "Friendly Words %": 0.10919540229885058,
+        "Sentiment": 0.0893939393939394,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.07136715391229578
+    },
+    {
+        "Timestamp": "Fri, 10 Nov 2000 09:05:00 -0800 (PST)",
+        "Sender": "Mark Taylor@ECT on 11/10/2000 02:25 PMBruce/NA/Enron@Enron, Stacy E Dickson/HOU/ECT@ECT, Jeffrey T ",
+        "Recipient": "Roger Balog/HOU/ECT@ECT, Peggy Banczak/HOU/ECT@ECT, Robert Hodge/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, Janice R Moore/HOU/ECT@ECT, ",
+        "Subject": "Construction Schedule - Office Moves",
+        "Text": "Hi Jeff and Barbara,I would really like to stay where I am, if possible.  I like being close to Suzanne, not to mention the good neighbors and the benefit of facing the wall.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/10/2000 05:02 PM ---------------------------Bruce/NA/Enron@Enron, Stacy E Dickson/HOU/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Kay Mann/Corp/Enron@Enron, Janice R Moore/HOU/ECT@ECT, Steve Van Hooser/HOU/ECT@ECTWhitehead/HOU/ECT@ECT, Linda J Noske/HOU/ECT@ECT, Sheri L Cromwell/HOU/ECT@ECT, Becky Spencer/HOU/ECT@ECT, Jenny Helton/HOU/ECT@ect, Suzanne Adams/HOU/ECT@ECT, Pat Radford/HOU/ECT@ECT, Janette Elbertson/HOU/ECT@ECT, Joya Davis/HOU/ECT@ECT Just a quick note to give you as much warning as possible.  The current phase of the office construction process is almost finished.  We have been given a completion date when (we hope) your new office will be ready of Monday, November 20.  Your assistants can help you order boxes and arrange your move.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.045454545454545456,
+        "Friendly Words %": 0.10606060606060606,
+        "Sentiment": 0.1921717171717172,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.12550200803212852
+    }
+],
+"thread2248": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 01:53:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "<kay",
+        "Subject": "GE Turbine Agreement",
+        "Text": "1100 is just fine.  We are all so dependent on our computers, I can hardly remember what we did in the \"old days\".Kay\"Thompson, Peter J.\" <peterthompson@akllp.com> on 11/13/2000 09:41:31 AMI should have the revised agreement to you by 11 AM CST.  I had hoped tohave it to you earlier, but we have experienced some technicaldifficulties as a result of the conversion of our system over theweekend.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.07352941176470588,
+        "Friendly Words %": 0.11764705882352941,
+        "Sentiment": 0.2402777777777778,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.050505050505050504
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 04:34:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "<kay",
+        "Subject": "GE Turbine Agreement",
+        "Text": "Hi Peter,Do you have a new ETA yet?  I need to manage expectations on this end.Thanks,Kay\"Thompson, Peter J.\" <peterthompson@akllp.com> on 11/13/2000 09:41:31 AMI should have the revised agreement to you by 11 AM CST.  I had hoped tohave it to you earlier, but we have experienced some technicaldifficulties as a result of the conversion of our system over theweekend.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.11475409836065574,
+        "Friendly Words %": 0.18032786885245902,
+        "Sentiment": 0.2681818181818182,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.051630434782608696
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 05:19:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"Kay Mann (E-mail)\" <kay",
+        "Subject": "GE Turbine Agreement",
+        "Text": "Peter,If I can get the clean version, I'm happy to run a blackline here.  Maybe getting out of your system would help!Thanks,Kay\"Thompson, Peter J.\" <peterthompson@akllp.com> on 11/13/2000 01:17:39 PMOur IT folks in Houston are still trying to run the blackline.  I wastold it would only be a few more minutes.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.057692307692307696,
+        "Friendly Words %": 0.11538461538461539,
+        "Sentiment": 0.3416666666666667,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06451612903225806
+    }
+],
+"thread2249": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 02:47:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "mitch",
+        "Subject": "Westinghouse letters",
+        "Text": "Hi Mitch,My suggested changes are highlighted.Please let me know what else I can do.Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.14285714285714285,
+        "Friendly Words %": 0.07142857142857142,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.034482758620689655
+    },
+    {
+        "Timestamp": "Thu, 16 Nov 2000 01:13:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Mitch Robinson/Corp/Enron@Enron",
+        "Subject": "Westinghouse letters",
+        "Text": "FYI---------------------- Forwarded by Kay Mann/Corp/Enron on 11/16/2000 09:13 AM ---------------------------   \tEnron North America Corp.\t\tThanks Kay.  I'll forward them on the Westinghouse by e-mail first.MitchKay Mann11/13/2000 10:47 AMHi Mitch,My suggested changes are highlighted.Please let me know what else I can do.Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.13953488372093023,
+        "Friendly Words %": 0.046511627906976744,
+        "Sentiment": 0.2,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.19938650306748465
+    }
+],
+"thread2251": [
+    {
+        "conflict": "yes",
+        "professional": "no",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 05:12:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "gdavis2@enron",
+        "Subject": "a quick question",
+        "Text": "Hi Geneva,The instruction sheet mentions a gift bag.  Do I pick this up at drop off?Thanks,Kay",
+        "Conflict": true,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.11764705882352941,
+        "Friendly Words %": 0.058823529411764705,
+        "Subject Sentiment": 0.3333333333333333,
+        "Punctuation %": 0.0425531914893617
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 06:51:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "gdavis2@enron",
+        "Subject": "a quick question",
+        "Text": "Thanks!   \t\t\tSorry the bags came in but they were wrong and we had to order from NewYork and they will arrive in 2 weeks.  I will email everyone when they can pick up their bags and labels.Kay Mann11/13/2000 01:12 PMHi Geneva,The instruction sheet mentions a gift bag.  Do I pick this up at drop off?Thanks,Kay",
+        "Conflict": true,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.11864406779661017,
+        "Friendly Words %": 0.06779661016949153,
+        "Sentiment": -0.125,
+        "Subject Sentiment": 0.3333333333333333,
+        "Punctuation %": 0.03225806451612903
+    }
+],
+"thread2253": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 06:05:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com\tsheila.tweed@enron.com, ben.jacoby@enron.com, ",
+        "Recipient": "\"Kay Mann (E-mail)\" <kay",
+        "Subject": "Compared Document",
+        "Text": "Here's the blacklined version.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/13/2000 02:03 PM ---------------------------\"Thompson, Peter J.\" <peterthompson@akllp.com> on 11/13/2000 01:46:03 PM<christophercobb@akllp.com> Here is the blackline showing changes made from version 5.  Again, Iapologize for the delay.  As you can see, the blackline has deletedcertain section headings and internal section cites. I will have ITdebug version 6, so this shouldn't affect any future blacklines.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.0625,
+        "Friendly Words %": 0.0625,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.15841584158415842
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 06:11:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"Kay Mann (E-mail)\" <kay",
+        "Subject": "Compared Document",
+        "Text": "---------------------- Forwarded by Kay Mann/Corp/Enron on 11/13/2000 02:10 PM ---------------------------Kay Mann11/13/2000 02:05 PMBills/Corp/Enron@ENRON, Sheila Tweed/HOU/ECT@ECT, Ben Jacoby/HOU/ECT@ECT, Stuart Zisman/HOU/ECT@ECT, Dale Rasmussen/HOU/ECT@ECT, Roseann Engeldorf/Corp/Enron@ENRONHere's the blacklined version.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 11/13/2000 02:03 PM ---------------------------\"Thompson, Peter J.\" <peterthompson@akllp.com> on 11/13/2000 01:46:03 PM<christophercobb@akllp.com> Here is the blackline showing changes made from version 5.  Again, Iapologize for the delay.  As you can see, the blackline has deletedcertain section headings and internal section cites. I will have ITdebug version 6, so this shouldn't affect any future blacklines.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.05813953488372093,
+        "Friendly Words %": 0.046511627906976744,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.19975031210986266
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 06:19:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"Kay Mann (E-mail)\" <kay",
+        "Subject": "Compared Document",
+        "Text": "Print job.---------------------- Forwarded by Kay Mann/Corp/Enron on 11/13/2000 02:19 PM ---------------------------\"Thompson, Peter J.\" <peterthompson@akllp.com> on 11/13/2000 01:46:03 PM<christophercobb@akllp.com> Here is the blackline showing changes made from version 5.  Again, Iapologize for the delay.  As you can see, the blackline has deletedcertain section headings and internal section cites. I will have ITdebug version 6, so this shouldn't affect any future blacklines.",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.08064516129032258,
+        "Friendly Words %": 0.08064516129032258,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.16390041493775934
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 06:56:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "peterthompson@akllp",
+        "Subject": "Compared Document",
+        "Text": "Hi Peter,When do you  think we will have a pretty compared document?Thanks,Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.15384615384615385,
+        "Friendly Words %": 0.23076923076923078,
+        "Sentiment": 0.25,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.038461538461538464
+    }
+],
+"thread2254": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Wed, 11 Oct 2000 01:17:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "FuelCell Negotiations",
+        "Text": "fyi.  I'll respond later.  Back to the contract....---------------------- Forwarded by Kay Mann/Corp/Enron on 10/11/2000 08:16 AM ---------------------------   \t\t\tI spoke to Fuel Cells and here is my suggested schedule for the negotiations:October 11, 2000--We redraft purchase order and send it to FuelCells.October 12, 2000-We hold a conference call with FuelCells in the morning to walk them through the P.O. and give them our thoughts (probable length 1-1.5 hours).  We continue to work on P.O. October 15, 2000--Kay flies to New York.  We have a conference call with FuelCells in the afternoon to discuss their initial comments on P.O.  Kay meets with Bingham to get work assignments started (i.e., permitting work, start drafting construction agreement, changes to Development Agreement...etc).  Scott takes 'red-eye\" flight to N.Y.October 16, 2000--Meet with FuelCells in Bingham's offices.  Continue negotiations on P.O.October 17-19, 2000--To be determined based on progress of meetings.  If need be, we could continue negotiations in Houston or have Kay patch in by the telephone or do all the negotiations by telephone.  What are your thoughts?",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.12087912087912088,
+        "Friendly Words %": 0.12637362637362637,
+        "Sentiment": 0.13636363636363635,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.0987012987012987
+    },
+    {
+        "Timestamp": "Wed, 11 Oct 2000 02:23:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "FuelCell Negotiations",
+        "Text": "We might want to consider meeting with the  FuelCell team in their offices, if this is less intimidating for them.  I  may be able to fly up on Monday am and accomplish what I need to do with BD, although flying on Sunday is fine as well.  TBD.Kay   \t\t\tI spoke to Fuel Cells and here is my suggested schedule for the negotiations:October 11, 2000--We redraft purchase order and send it to FuelCells.October 12, 2000-We hold a conference call with FuelCells in the morning to walk them through the P.O. and give them our thoughts (probable length 1-1.5 hours).  We continue to work on P.O. October 15, 2000--Kay flies to New York.  We have a conference call with FuelCells in the afternoon to discuss their initial comments on P.O.  Kay meets with Bingham to get work assignments started (i.e., permitting work, start drafting construction agreement, changes to Development Agreement...etc).  Scott takes 'red-eye\" flight to N.Y.October 16, 2000--Meet with FuelCells in Bingham's offices.  Continue negotiations on P.O.October 17-19, 2000--To be determined based on progress of meetings.  If need be, we could continue negotiations in Houston or have Kay patch in by the telephone or do all the negotiations by telephone.  What are your thoughts?",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.10697674418604651,
+        "Friendly Words %": 0.12093023255813953,
+        "Sentiment": 0.18063973063973068,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.046586345381526104
+    }
+],
+"thread2255": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 06:27:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "lloyd",
+        "Subject": "GE \"Standard\" Contract/off balance sheet",
+        "Text": "Greetings,I'm working with Sheila Tweed and others at ENA and EECC in developing a more standardized contract with GE for equipment purchases.  The goal is to develop a more efficient contracting process, and to avoid negotiating the same  points repeatedly, with varying results among business units.  Sheila has suggested that I drop you a line to see if this is something you might find interesting and/or helpful.You now have my email address, and my phone number is 713 345 7566.  Please let me know your thoughts about participating in the process.Thank you,Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.10416666666666667,
+        "Friendly Words %": 0.10416666666666667,
+        "Sentiment": 0.4166666666666667,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.021164021164021163
+    },
+    {
+        "Timestamp": "Mon, 20 Nov 2000 01:03:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Lloyd Wantschek/LON/ECT@ECT, Mark Evans/Legal/LON/ECT@ECT",
+        "Subject": "GE \"Standard\" Contract/off balance sheet",
+        "Text": "---------------------- Forwarded by Kay Mann/Corp/Enron on 11/20/2000 09:03 AM ---------------------------Mark Evans@ECT11/19/2000 03:12 AMKay,our contact with GE tends to be indirect through turnkey contractors on power owner. So this would probably not be high on our list of priorities, although we would be interested to see what you come up with. You might want input to your process from our engineering team, lead by John Chappell, so I have copied this to John.       MarkKay Mann@ENRON13/11/2000 20:27Greetings,I'm working with Sheila Tweed and others at ENA and EECC in developing a more standardized contract with GE for equipment purchases.  The goal is to develop a more efficient contracting process, and to avoid negotiating the same  points repeatedly, with varying results among business units.  Sheila has suggested that I drop you a line to see if this is something you might find interesting and/or helpful.You now have my email address, and my phone number is 713 345 7566.  Please let me know your thoughts about participating in the process.Thank you,Kay",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.10795454545454546,
+        "Friendly Words %": 0.13068181818181818,
+        "Sentiment": 0.36375,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.07520891364902507
+    }
+],
+"thread2256": [
+    {
+        "conflict": "no",
+        "professional": "no",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 08:28:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "kay",
+        "Subject": "Dewey McLain",
+        "Text": "Need a sitter.  I'm working on it!  Any idea what time it starts?KayAndrea Dowlen <dowlena@camerondiv.com> on 11/13/2000 04:23:18 PMKay - will I see ya there?Andreadbennett@technip.com wrote:",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.21428571428571427,
+        "Friendly Words %": 0.07142857142857142,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.08900523560209424
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 08:29:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "dbennett@technip",
+        "Subject": "Dewey McLain",
+        "Text": "A que hora?  (what time?)",
+        "Conflict": false,
+        "Professional": false,
+        "Tone": false,
+        "Conflict Words %": 0.3333333333333333,
+        "Friendly Words %": 0.16666666666666666,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.16
+    }
+],
+"thread2257": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 08:44:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"Kay Mann (E-mail)\" <kay",
+        "Subject": "GE Agreement Redline",
+        "Text": "Looks like they have a rats nest to figure out.ckm---------------------- Forwarded by Kay Mann/Corp/Enron on 11/13/2000 04:41 PM ---------------------------\"Thompson, Peter J.\" <peterthompson@akllp.com> on 11/13/2000 04:13:35 PM<paulpipitone@akllp.com><paulpipitone@akllp.com>, \"Cobb, Christopher\" <chriscobb@akllp.com> I just opened the redline that I just forwarded to you all.  Iapologize, but it is still wrong.  The language I added shows up as astrike-through and ther language I deleted shows up as though added.  Iam desperately atempting to get this straightened out.",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.09210526315789473,
+        "Friendly Words %": 0.09210526315789473,
+        "Sentiment": -0.55,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.1545138888888889
+    },
+    {
+        "Timestamp": "Mon, 13 Nov 2000 09:08:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "\"'Kay",
+        "Subject": "GE Agreement Redline",
+        "Text": "Your suggestion is probably cheaper for Enron!\"Shoemaker, Kent (GEAE)\" <kent.shoemaker@ae.ge.com> on 11/13/2000 05:03:12 PMTell them to reverse the CompareWrite and redo (should be an easy fix).Otherwise, we can just agree to all of GE's suggested changes and call it aday!",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.05,
+        "Friendly Words %": 0.075,
+        "Sentiment": 0.5416666666666667,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.08058608058608059
+    }
+],
+"thread2260": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Wed, 11 Oct 2000 09:01:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "kathleen",
+        "Subject": "Ledford and Fehr Option Agreements",
+        "Text": "Are these the ones which didn't have the date?  This is PITIFUL.",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.15384615384615385,
+        "Friendly Words %": 0.15384615384615385,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.046875
+    },
+    {
+        "Timestamp": "Wed, 11 Oct 2000 10:22:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "karen",
+        "Subject": "Ledford and Fehr Option Agreements",
+        "Text": "Stuart,Kay's venting for the day:Is it nitpicking to expect outside counsel to (1) make sure the option agreement is signed AND acknowledged (2) ascertain whether the thing has the dates filled in, and (3) makes sure that the legal description is included?Ok, maybe I'm whining, but I think Mark should know that we are having problems.  Have you mentioned anything to him?Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 10/11/2000 05:19 PM ---------------------------Kathleen.Carnahan@enron.com on 10/11/2000 03:17:18 PMKaren,There are a few outstanding items missing on the Ledford and Fehr OptionAgreements.  They are as follows:Ledford Property1.   Steven and Lynn Ledfords's signatures were not acknowledged.2.   Exhibit B (Grant of Easement Legal Description) was to be inserted.Since it is our intention to have executed and record a Memorandum ofPurchase  Option and Grant of Easement, shouldn't we obtain from thedescription of the parent tract for      reference purposes; or (iii) aproperty identification number of the parent tract at the very least toinclude in the Memorandum?Fehr1.   No legal description (Exhibit A) was attached to the Fehr Option.  Doyou have a copy of the legal description?  Please advise.I look forward to hearing from you regarding the above.Thank youKathleen(713) 345-3386 - direct phone number(713) 646-3037 - fax",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.13679245283018868,
+        "Friendly Words %": 0.10849056603773585,
+        "Sentiment": 0.07638888888888888,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.07900512070226774
+    }
+],
+"thread2262": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Wed, 11 Oct 2000 09:08:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "<kay",
+        "Subject": "Enovate Credit Agreement",
+        "Text": "Hi Gregg,I've been tied up today so I haven't gotten this to you.   Maybe we can talk soon.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 10/11/2000 04:07 PM ---------------------------\"Heather Brown\" <hbrown@bracepatt.com> on 10/11/2000 01:25:55 PMKay,Please find attached for your review a Closing Documents list and a very preliminary draft of the Enovate Credit Agreement.  Once you have had a chance to review the attached with your business people, let's set up a call to discuss structure/changes/etc.  In addition to confirming the basics (lending entity, interest rate, term), we will need to discuss financial covenantsPlease call me at 713.221.1419 regarding the foregoing.Regards,Heather - Checklist.doc - CreditAgmt.doc",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.1308411214953271,
+        "Friendly Words %": 0.12149532710280374,
+        "Sentiment": 0.2,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.11914323962516733
+    },
+    {
+        "Timestamp": "Thu, 12 Oct 2000 10:59:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "<kay",
+        "Subject": "Enovate Credit Agreement",
+        "Text": "I couldn't remember if I forwarded this to you, so here 'tis.Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 10/12/2000 05:58 PM ---------------------------\"Heather Brown\" <hbrown@bracepatt.com> on 10/11/2000 01:25:55 PMKay,Please find attached for your review a Closing Documents list and a very preliminary draft of the Enovate Credit Agreement.  Once you have had a chance to review the attached with your business people, let's set up a call to discuss structure/changes/etc.  In addition to confirming the basics (lending entity, interest rate, term), we will need to discuss financial covenantsPlease call me at 713.221.1419 regarding the foregoing.Regards,Heather - Checklist.doc - CreditAgmt.doc",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.12121212121212122,
+        "Friendly Words %": 0.12121212121212122,
+        "Sentiment": 0.2,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.12273361227336123
+    }
+],
+"thread1208": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 06:12:00 -0700 (PDT)",
+        "Sender": "david.delainey@enron.com",
+        "Recipient": "David W Delainey@ECT",
+        "Subject": "Fuel Cells",
+        "Text": "Marion, the leads include Heather Kroll and Ozzie Pagan in the Eastern Origination Group and Michael L Miller in the Principal Investing Group.RegardsDelainey---------------------- Forwarded by David W Delainey/HOU/ECT on 10/03/2000 01:11 PM ---------------------------Marion W Cole@ENRON_DEVELOPMENT10/02/2000 01:24 PMDavid,Congratulations on the Fuel Cell venture.  I have been trying to get Enron interested in this technology for many years.  I am glad someone found the right formula.  I would like to discuss applications of Fuel Cell technology and where Enron intends to take this product with someone in your organization.  The press release did not disclose who the lead promoter in your organization is.  Can you direct me to the right person?Best regards,Marion Cole",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.06896551724137931,
+        "Friendly Words %": 0.06896551724137931,
+        "Sentiment": 0.3202380952380952,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.08868894601542417
+    },
+    {
+        "Timestamp": "Tue, 13 Mar 2001 03:15:00 -0800 (PST)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "  \"'kay",
+        "Subject": "Fuel Cells",
+        "Text": "Well, you know Enron.  No boredom, ever!Kay\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM> on 03/13/2001 11:03:11 AMthe lawyer in our CT office who I had talked to initially.  I hope that all is well.  It sure sounds like you all are just buried.  Speak to you soon.  John>>> <Kay.Mann@enron.com> 03/13/01 09:23AM >>>Hi John,I still need a Connecticut lawyer to look at this.  Do you have someoneavailable?  I need input by Monday, March 19. Nothing comprehensive, just afatal flaw analysis under Connecticut law.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 03/13/2001 08:21AM ---------------------------Kay Mann12/11/2000 06:57 AMSubject:Hi John,I'm attaching the current draft of the contract under which we will be ableto buy the Fuel Cell equipment for use on projects in Connecticut.  Thecontract will likely be a Connecticut law contract.  Could you have someonegive it a fatal flaw check, or should I use Connecticut counsel?One issue which is nagging me is their request for a security interest inthe equipment, as I think this might complicate financing.  I assume thatan equipment supplier has certain lien rights under Connecticut law anyway.Can you have this verified?  I only want the simplest of explanations.Thanks,Kay---------------------- Forwarded by Kay Mann/Corp/Enron on 12/11/2000 06:52AM ---------------------------\"Scheib, Jacqueline Pennino\" <jscheib@rc.com> on 11/17/2000 10:26:09 PM      <jleitman@fce.com>, \"Ross M. Levine (E-mail)\" <rlevine@fce.com>Subject: <<jgtk01!.DOC>>  <<RED FUELCELL AGR.DOC>>--------------------------------------------------Jacqueline Pennino Scheib, Esq.Robinson & Cole LLP280 Trumbull StreetHartford, CT  06103(p) 860-275-8285(f) 860-275-8299jscheib@rc.com \"This e-mail, including attachments, contains information that is confidential and it may be protected by the attorney/client or other privileges.  This e-mail, including attachments, constitutes non-public information intended to be conveyed only to the designated recipient(s).  If you are not an intended recipient, please delete this e-mail, including attachments and notify me by return mail, e-mail or by phone at 212 424-8125.  The unauthorized use, dissemination, distribution or reproduction of the e-mail, including attachments, is prohibited and may be unlawful.John KlaubergLeBoeuf, Lamb, Greene & MacRae, L.L.P.212 424-8125jklauber@llgm.com",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.13109756097560976,
+        "Friendly Words %": 0.09451219512195122,
+        "Sentiment": 0.21726190476190477,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.126890756302521
+    },
+    {
+        "Timestamp": "Fri, 15 Sep 2000 05:22:00 -0700 (PDT)",
+        "Sender": "kay.mann@enron.com",
+        "Recipient": "Kay Mann/Corp/Enron@Enron",
+        "Subject": "Fuel Cells",
+        "Text": "Scott,I'll give you what we got from FCE when we meet at 300.  Remind me if I forget!Kay   \t\t\t1.  Can I get a copy of the FuelCell Energy purchase order form.  Jeff said that you would have a copy.2.  I forwarded to you a memo from Bingham that discusses the permitting requirements for the proposed projects.  FYI--I plan to call Bingham today with some follow up questions.3. I forwarded to you a memo by ENSR on the air permit requirements for fuel cells.4.  Please let me know when you can meet today to discuss the MOU.",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.14423076923076922,
+        "Friendly Words %": 0.15384615384615385,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.030534351145038167
+    }
+],
+"thread1209": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "relaxed"
+    },
+    {
+        "Timestamp": "Tue, 3 Oct 2000 02:02:00 -0700 (PDT)",
+        "Sender": "James D Steffes@ENRON on 09/30/2000 12:04 AM",
+        "Recipient": "David W Delainey/HOU/ECT@ECTDave --",
+        "Subject": "Presentation at Alstom ESCA Meeting in Las Vegas",
+        "Text": "Jim, this sounds like an ambush..... :)---------------------- Forwarded by David W Delainey/HOU/ECT on 10/03/2000 09:00 AM ---------------------------Dave --I am trying to obtain an attendance list as well as confirm the other speakers on the panel.  The initial list of speakers included the Governor of California and the Governor of Pennsylvania, although I am not sure if they are coming.  If ESCA gets Davis and Ridge, I think that we would have a good opportunity for you.Once I have more information I'll be in contact.Jim\tDavid W Delainey@ECT\t10/02/2000 12:53 PM\t\t Jim, I am not sure that this will attract the people we want to hear the message; however, I will hold back judgement until we discuss the strategy in more detail.RegardsDelainey---------------------- Forwarded by David W Delainey/HOU/ECT on 10/02/2000 12:52 PM ---------------------------Dave --Alstom ESCA is holding \"Summit 2000\" in Las Vegas Oct 16 - Oct 17.  The purpose of the meeting is to bring together people from throughout the industry to discuss key issues.  Alstom ESCA is a French company that builds EMS systems in the US.  They developed the EMS for Enron's control areas.  We are working with them on Project e-trans (the RTO software).The first panel in the am on Monday involves Re-regulation and Competition.  They would like someone from Enron to present and participate.  Right now, they have  Pacificorp and are trying to get someone from government in PA and CA.  The presentation / speech is 10 - 15 minutes followed by 30 minutes of Q&A for the panel.Do you have any interest in presenting?  This could be a good opportunity to deliver our message throughout the industry.Please let me know.Thanks,Jim",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.09219858156028368,
+        "Friendly Words %": 0.10638297872340426,
+        "Sentiment": 0.2411734693877551,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.09406231628453851
+    },
+    {
+        "Timestamp": "Mon, 2 Oct 2000 05:53:00 -0700 (PDT)",
+        "Sender": "James D Steffes@ENRON on 09/30/2000 12:04 AM",
+        "Recipient": "David W Delainey/HOU/ECT@ECTDave --",
+        "Subject": "Presentation at Alstom ESCA Meeting in Las Vegas",
+        "Text": "Jim, I am not sure that this will attract the people we want to hear the message; however, I will hold back judgement until we discuss the strategy in more detail.RegardsDelainey---------------------- Forwarded by David W Delainey/HOU/ECT on 10/02/2000 12:52 PM ---------------------------Dave --Alstom ESCA is holding \"Summit 2000\" in Las Vegas Oct 16 - Oct 17.  The purpose of the meeting is to bring together people from throughout the industry to discuss key issues.  Alstom ESCA is a French company that builds EMS systems in the US.  They developed the EMS for Enron's control areas.  We are working with them on Project e-trans (the RTO software).The first panel in the am on Monday involves Re-regulation and Competition.  They would like someone from Enron to present and participate.  Right now, they have  Pacificorp and are trying to get someone from government in PA and CA.  The presentation / speech is 10 - 15 minutes followed by 30 minutes of Q&A for the panel.Do you have any interest in presenting?  This could be a good opportunity to deliver our message throughout the industry.Please let me know.Thanks,Jim",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": false,
+        "Conflict Words %": 0.10416666666666667,
+        "Friendly Words %": 0.109375,
+        "Sentiment": 0.2838095238095238,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.07535460992907801
+    }
+],
+"thread1210": [
+    {
+        "conflict": "no",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Mon, 2 Oct 2000 05:55:00 -0700 (PDT)",
+        "Sender": "david.delainey@enron.com",
+        "Recipient": "Brian Redmond/HOU/ECT@ECT, Jean Mrha/NA/Enron@Enron",
+        "Subject": "LIPA",
+        "Text": "Guys, assuming that we receive $7M for the 6B's what is our cost basis in the Barges?RegardsDelainey---------------------- Forwarded by David W Delainey/HOU/ECT on 10/02/2000 12:53 PM ---------------------------Brian Redmond09/29/2000 04:56 PMDave:We have an agreed turbine purchase contract that we have executed and that Enron Nigeria are supposed to execute today.  Per our discussion, Wes C.  suggested that we push the $2.0MM additional write down as well as the $7.1 turbine purchase revenue to Q4.1. Finding a buyer for either the LIPA PPA/Barges together, or just the barges by themselves2. Discussing with LIPA, the Power Desk, and BargeCo to find an acceptable PPA structure and barge price to meet our risk/return criteria.The decision tree for the LIPA deal is as follows:risk (discussions ongoing)replacement capacity charged by the desk.OR,PPA (ConEd, Montauk, NRG) ENA will purchase the barges from BargeCo (Barges are currently located in Brooklyn)  We will not purchase the barges and will shut down the LIPA deal.    to stop working on the deal.originally stated by BargeCo.  Additional capital investment would be required to meet our performance requirements - our position is that this additional cost must be borne by BargeCo.  We do not, however, want to implement this action until we have sold the 6B turbines to Enron Nigeria so that we are sure this transaction is completed.David W Delainey09/29/2000 08:25 AMGuys, what are we going to do with this contract and the barges?  My understanding is that we have a done deal on the 6B's.  Is this correct?  I may be a nervous nellie but I would like to put all this stuff behind us (ie) no more 6B's or barges.RegardsDelainey",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.08896797153024912,
+        "Friendly Words %": 0.099644128113879,
+        "Sentiment": -0.06458333333333335,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.06419316843345112
+    },
+    {
+        "Timestamp": "Fri, 29 Sep 2000 01:25:00 -0700 (PDT)",
+        "Sender": "david.delainey@enron.com",
+        "Recipient": "brian",
+        "Subject": "LIPA",
+        "Text": "Guys, what are we going to do with this contract and the barges?  My understanding is that we have a done deal on the 6B's.  Is this correct?  I may be a nervous nellie but I would like to put all this stuff behind us (ie) no more 6B's or barges.RegardsDelainey",
+        "Conflict": false,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.12962962962962962,
+        "Friendly Words %": 0.14814814814814814,
+        "Sentiment": -0.325,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.034482758620689655
+    }
+],
+"thread1211": [
+    {
+        "conflict": "yes",
+        "professional": "yes",
+        "tone": "stern"
+    },
+    {
+        "Timestamp": "Wed, 6 Dec 2000 07:46:00 -0800 (PST)",
+        "Sender": "david.delainey@enron.com\tjames.bannantine@enron.com, mark.frevert@enron.com, ",
+        "Recipient": "Orlando Gonzalez/SA/Enron@Enron, Joe Kishkill/SA/Enron@Enron, James M Bannantine/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mark Frevert/NA/Enron@Enron, ",
+        "Subject": "SA Memo",
+        "Text": "Updated draft memo.RegardsDelainey---------------------- Forwarded by David W Delainey/HOU/ECT on 12/06/2000 03:37 PM ---------------------------David W Delainey12/06/2000 01:14 PMBannantine/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mark Frevert/NA/Enron@Enron, John J Lavorato/Corp/Enron@Enron, Greg Whalley/HOU/ECT@ECT, Richard Shapiro/NA/Enron@Enron, Joseph Deffner/HOU/ECT@ECT, Mark E Haedicke/HOU/ECT@ECT, David Oxley/HOU/ECT@ECT, Wes Colwell/HOU/ECT@ECT, Rebecca McDonald/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, James A Hughes/ENRON_DEVELOPMENT@ENRON_DEVELOPMENTGuys, please take a read of the draft memo - would like to send out tommorrow.RegardsDelainey",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.03636363636363636,
+        "Friendly Words %": 0.05454545454545454,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.1638591117917305
+    },
+    {
+        "Timestamp": "Wed, 6 Dec 2000 05:14:00 -0800 (PST)",
+        "Sender": "david.delainey@enron.com\tjames.bannantine@enron.com, mark.frevert@enron.com, ",
+        "Recipient": "orlando",
+        "Subject": "SA Memo",
+        "Text": "Guys, please take a read of the draft memo - would like to send out tommorrow.RegardsDelainey",
+        "Conflict": true,
+        "Professional": true,
+        "Tone": true,
+        "Conflict Words %": 0.125,
+        "Friendly Words %": 0.125,
+        "Subject Sentiment": 0.0,
+        "Punctuation %": 0.03225806451612903
+    }
 ]
+
 }
